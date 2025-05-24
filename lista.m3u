@@ -1,16 +1,16 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/scafroglia93/TV/refs/heads/main/epg.xml"
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai", RAI 1
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/875922788/index.m3u8
-
-#EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai", RAI 1 (2)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1225653759/index.m3u8
 
+#EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai", RAI 1 (2)
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/875922788/index.m3u8
+
 #EXTINF:-1 tvg-id="rai2.it" tvg-name="RAI 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Rai", RAI 2
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/246253359/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1939210164/index.m3u8
 
 #EXTINF:-1 tvg-id="rai2.it" tvg-name="RAI 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Rai", RAI 2 (2)
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1939210164/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/246253359/index.m3u8
 
 #EXTINF:-1 tvg-id="rai3.it" tvg-name="RAI 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Rai", RAI 3
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1324733956/index.m3u8
@@ -19,19 +19,19 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/13247
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/869117599/index.m3u8
 
 #EXTINF:-1 tvg-id="rai4.it" tvg-name="RAI 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Rai", RAI 4
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2179822223/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/4241820180/index.m3u8
 
 #EXTINF:-1 tvg-id="rai4.it" tvg-name="RAI 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Rai", RAI 4 (2)
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/4241820180/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2179822223/index.m3u8
 
 #EXTINF:-1 tvg-id="rai4k.it" tvg-name="RAI 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/1200px-Rai_4K_-_Logo_2017.svg.png" group-title="Rai", RAI 4K
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2049087681/index.m3u8
 
 #EXTINF:-1 tvg-id="rai5.it" tvg-name="RAI 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-5-it.png" group-title="Rai", RAI 5
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3163380543/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3249873828/index.m3u8
 
 #EXTINF:-1 tvg-id="rai5.it" tvg-name="RAI 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-5-it.png" group-title="Rai", RAI 5 (2)
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3249873828/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3163380543/index.m3u8
 
 #EXTINF:-1 tvg-id="raigulp.it" tvg-name="RAI GULP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai", RAI GULP
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1803677691/index.m3u8
@@ -46,10 +46,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/37467
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/294457245/index.m3u8
 
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai", RAI MOVIE
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1925964148/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2835672487/index.m3u8
 
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai", RAI MOVIE (2)
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2835672487/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1925964148/index.m3u8
 
 #EXTINF:-1 tvg-id="rainews24.it" tvg-name="RAI NEWS 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai", RAI NEWS 24
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2239645272/index.m3u8
@@ -103,10 +103,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/60877
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/80896559/index.m3u8
 
 #EXTINF:-1 tvg-id="canale5.it" tvg-name="CANALE 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset", CANALE 5
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1534161807/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1101559666/index.m3u8
 
 #EXTINF:-1 tvg-id="canale5.it" tvg-name="CANALE 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset", CANALE 5 (2)
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1101559666/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1534161807/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CINE 34 MEDIASET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Mediaset", CINE 34 MEDIASET
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1768670187/index.m3u8
@@ -151,16 +151,16 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/29111
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1376440573/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1.it" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport", EUROSPORT 1
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3448075317/index.m3u8
-
-#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport", EUROSPORT 1 (2)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3481346857/index.m3u8
 
+#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport", EUROSPORT 1 (2)
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3448075317/index.m3u8
+
 #EXTINF:-1 tvg-id="eurosport2.it" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport", EUROSPORT 2
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2283887097/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2317684453/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport2.it" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport", EUROSPORT 2 (2)
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2317684453/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2283887097/index.m3u8
 
 #EXTINF:-1 tvg-id="intertv.it" tvg-name="INTER TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/inter-tv-it.png?raw=true" group-title="Sport", INTER TV
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2973773076/index.m3u8
@@ -193,10 +193,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/30074
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2555960713/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="SKY SPORT CALCIO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport", SKY SPORT CALCIO
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/449990998/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1665920101/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="SKY SPORT CALCIO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport", SKY SPORT CALCIO (2)
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1665920101/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/449990998/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportf1.it" tvg-name="SKY SPORT F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport", SKY SPORT F1
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/4246774056/index.m3u8
@@ -208,10 +208,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/30935
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1989309231/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportgolf.it" tvg-name="SKY SPORT GOLF" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport", SKY SPORT GOLF
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3897711086/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/729945219/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportgolf.it" tvg-name="SKY SPORT GOLF" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport", SKY SPORT GOLF (2)
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/729945219/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3897711086/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportmax.it" tvg-name="SKY SPORT MAX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png" group-title="Sport", SKY SPORT MAX
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2066326916/index.m3u8
@@ -265,10 +265,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/33428
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2198410339/index.m3u8
 
 #EXTINF:-1 tvg-id="supertennis.it" tvg-name="SUPER TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport", SUPER TENNIS
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3213195143/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3009377513/index.m3u8
 
 #EXTINF:-1 tvg-id="supertennis.it" tvg-name="SUPER TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport", SUPER TENNIS (2)
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3009377513/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3213195143/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TENNIS CHANNEL" tvg-logo="https://images.tennis.com/image/upload/t_16-9_768/v1620828532/tenniscom-prd/assets/Fallback/Tennis_Fallback_v6_f5tjzv.jpg" group-title="Sport", TENNIS CHANNEL
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2716316208/index.m3u8
@@ -319,40 +319,40 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/14213
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1482866609/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2242741766/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1144128726/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION (2)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3812796171/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION (3)
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1144128726/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2242741766/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemacollectionhd.it" tvg-name="SKY CINEMA COLLECTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film & Serie TV", SKY CINEMA COLLECTION
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3525837057/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="SKY CINEMA COMEDY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film & Serie TV", SKY CINEMA COMEDY
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/500203271/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3131104474/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="SKY CINEMA COMEDY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film & Serie TV", SKY CINEMA COMEDY (2)
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3131104474/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/500203271/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemadrama.it" tvg-name="SKY CINEMA DRAMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film & Serie TV", SKY CINEMA DRAMA
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1235530177/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="SKY CINEMA DUE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film & Serie TV", SKY CINEMA DUE
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1228534500/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2330574729/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="SKY CINEMA DUE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film & Serie TV", SKY CINEMA DUE (2)
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2330574729/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1228534500/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemadue+24.it" tvg-name="SKY CINEMA DUE +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film & Serie TV", SKY CINEMA DUE +24
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1078650168/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="SKY CINEMA FAMILY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film & Serie TV", SKY CINEMA FAMILY
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3216516117/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/415795144/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="SKY CINEMA FAMILY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film & Serie TV", SKY CINEMA FAMILY (2)
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/415795144/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3216516117/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="SKY CINEMA ROMANCE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film & Serie TV", SKY CINEMA ROMANCE
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2890008905/index.m3u8
@@ -367,10 +367,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/18209
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3060043751/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="SKY CINEMA UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film & Serie TV", SKY CINEMA UNO
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1759625738/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2872151911/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="SKY CINEMA UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film & Serie TV", SKY CINEMA UNO (2)
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2872151911/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1759625738/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemauno+24.it" tvg-name="SKY CINEMA UNO +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film & Serie TV", SKY CINEMA UNO +24
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1699876530/index.m3u8
@@ -406,10 +406,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/12844
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3470758028/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 2
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/525374356/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/877200714/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 2 (2)
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/877200714/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/525374356/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 3
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/573618724/index.m3u8
@@ -424,16 +424,16 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/24169
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3137990890/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 5
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2255083866/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 5 (2)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2909818756/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 5 (2)
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2255083866/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 6
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3251217290/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3939513684/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 6 (2)
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3939513684/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3251217290/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 7
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3618643172/index.m3u8
@@ -448,10 +448,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/14407
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2130255339/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 9
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1134113883/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1753260677/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 9 (2)
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1753260677/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1134113883/index.m3u8
 
 #EXTINF:-1 tvg-id="skyserie.it" tvg-name="SKY SERIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film & Serie TV", SKY SERIE
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/836680112/index.m3u8
@@ -466,10 +466,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/34204
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/490955579/index.m3u8
 
 #EXTINF:-1 tvg-id="skytg24.it" tvg-name="SKY TG 24" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="News", SKY TG 24
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3376031355/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/318057128/index.m3u8
 
 #EXTINF:-1 tvg-id="skytg24.it" tvg-name="SKY TG 24" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="News", SKY TG 24 (2)
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/318057128/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3376031355/index.m3u8
 
 #EXTINF:-1 tvg-id="tgcom24.it" tvg-name="TG COM 24" tvg-logo="https://yt3.hgoogleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="News", TG COM 24
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1785098768/index.m3u8
@@ -547,10 +547,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/43057
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3267376899/index.m3u8
 
 #EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari", DISCOVERY CHANNEL
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3554841914/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1955739367/index.m3u8
 
 #EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari", DISCOVERY CHANNEL (2)
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1955739367/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3554841914/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FOCUS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Documentari", DISCOVERY FOCUS
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2113273064/index.m3u8
@@ -580,10 +580,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/34285
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3229664409/index.m3u8
 
 #EXTINF:-1 tvg-id="skyarte.it" tvg-name="SKY ARTE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari", SKY ARTE
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1902695925/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1806815496/index.m3u8
 
 #EXTINF:-1 tvg-id="skyarte.it" tvg-name="SKY ARTE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari", SKY ARTE (2)
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1806815496/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1902695925/index.m3u8
 
 #EXTINF:-1 tvg-id="skydocumentaries.it" tvg-name="SKY DOCUMENTARIES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Documentari", SKY DOCUMENTARIES
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/464281981/index.m3u8
@@ -748,10 +748,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/15272
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2381583828/index.m3u8
 
 #EXTINF:-1 tvg-id="cielo.it" tvg-name="CIELO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Altro", CIELO
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3743894403/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2719953688/index.m3u8
 
 #EXTINF:-1 tvg-id="cielo.it" tvg-name="CIELO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Altro", CIELO (2)
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2719953688/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3743894403/index.m3u8
 
 #EXTINF:-1 tvg-id="cine34.it" tvg-name="CINE 34" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Altro", CINE 34
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/62558606/index.m3u8
@@ -1243,16 +1243,16 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed
 #EXTINF:-1 tvg-id="313" tvg-name="Hard Truths of Conservation Season 3, Episode 9 (15:00)" tvg-logo="https://www.gobourbon.com/wp-content/uploads/2024/03/Collection-min.png" group-title="Eventi Live",Hard Truths of Conservation Season 3, Episode 9 (15:00)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-313.php
 
-#EXTINF:-1 tvg-id="758" tvg-name="AMSOIL Championship Off Road (16:00)" tvg-logo="https://champoffroad.com/wp-content/uploads/2025_SCHEDULE_TILE_06_BARK_RIVER.png" group-title="Eventi Live",AMSOIL Championship Off Road (16:00)
+#EXTINF:-1 tvg-id="758" tvg-name="AMSOIL Championship Off Road (16:00)" tvg-logo="https://champoffroad.com/wp-content/uploads/2025_SCHEDULE_TILE_07_CRANDON.png" group-title="Eventi Live",AMSOIL Championship Off Road (16:00)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-758.php
 
-#EXTINF:-1 tvg-id="767" tvg-name="Lucky Dog: Reunions Season 2, Episode 22 (17:00)" tvg-logo="https://cdn-icons-png.flaticon.com/512/4144/4144517.png" group-title="Eventi Live",Lucky Dog: Reunions Season 2, Episode 22 (17:00)
+#EXTINF:-1 tvg-id="767" tvg-name="Lucky Dog: Reunions Season 2, Episode 22 (17:00)" tvg-logo="https://www.classcreator.com/000/template_media/76225819-DB41-24B9-0E89453A22A310E3.png" group-title="Eventi Live",Lucky Dog: Reunions Season 2, Episode 22 (17:00)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-767.php
 
-#EXTINF:-1 tvg-id="769" tvg-name="Harlem Globetrotters: Play It Forward Season 3, Episode 22 (17:00)" tvg-logo="https://swseplayitforward.ca/wp-content/themes/play-it-forward-ae2708-ef774d37aac56ec5-2/assets/images/official-logo-white.png" group-title="Eventi Live",Harlem Globetrotters: Play It Forward Season 3, Episode 22 (17:00)
+#EXTINF:-1 tvg-id="769" tvg-name="Harlem Globetrotters: Play It Forward Season 3, Episode 22 (17:00)" tvg-logo="https://images.squarespace-cdn.com/content/v1/5b95de21b40b9d498c87e52b/1729347316671-C6CH55UUFN4PHLJS2DCS/Play+It+Forward+bigger.png" group-title="Eventi Live",Harlem Globetrotters: Play It Forward Season 3, Episode 22 (17:00)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-769.php
 
-#EXTINF:-1 tvg-id="769" tvg-name="Wild Child Season 5, Episode 22 (17:30)" tvg-logo="https://investinstirling.com/wp-content/uploads/2021/09/Wild-Child-Master-Logo-Strapline-Black.png" group-title="Eventi Live",Wild Child Season 5, Episode 22 (17:30)
+#EXTINF:-1 tvg-id="769" tvg-name="Wild Child Season 5, Episode 22 (17:30)" tvg-logo="https://wildchildanimation.com/wp-content/uploads/2021/03/team-4.png" group-title="Eventi Live",Wild Child Season 5, Episode 22 (17:30)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-769.php
 
 #EXTINF:-1 tvg-id="767" tvg-name="Mission Unstoppable Season 6, Episode 22 (18:00)" tvg-logo="https://miro.medium.com/v2/resize:fit:1200/1*fpWIxAalfBX9bIiLfGfqMw.png" group-title="Eventi Live",Mission Unstoppable Season 6, Episode 22 (18:00)
@@ -1276,7 +1276,7 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed
 #EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="425" tvg-name="CAF Champions League : Mamelodi Sundowns vs Pyramids FC (15:00)" tvg-logo="https://www.sollymsports.com/wp-content/uploads/2021/09/mamelodi-sundowns-logo.png" group-title="Eventi Live",CAF Champions League : Mamelodi Sundowns vs Pyramids FC (15:00)
+#EXTINF:-1 tvg-id="425" tvg-name="CAF Champions League : Mamelodi Sundowns vs Pyramids FC (15:00)" tvg-logo="https://images.seeklogo.com/logo-png/60/2/mamelodi-sundowns-fc-logo-png_seeklogo-609852.png" group-title="Eventi Live",CAF Champions League : Mamelodi Sundowns vs Pyramids FC (15:00)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-425.php
 
 #EXTINF:-1 tvg-id="35" tvg-name="England - Championship : Sheffield United vs Sunderland (16:00)" tvg-logo="https://www.footballkitarchive.com/static/logos/vsQANg3FMKPZJER/sheffield-united-1999-logo.png" group-title="Eventi Live",England - Championship : Sheffield United vs Sunderland (16:00)
@@ -1294,7 +1294,7 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed
 #EXTINF:-1 tvg-id="276" tvg-name="Spain - La Liga : Real Madrid vs Real Sociedad (16:15)" tvg-logo="https://logodetimes.com/times/real-madrid/logo-real-madrid-4096.png" group-title="Eventi Live",Spain - La Liga : Real Madrid vs Real Sociedad (16:15)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-276.php
 
-#EXTINF:-1 tvg-id="758" tvg-name="Coupe Gambardella : Dijon U18 vs Rennes U18 (17:15)" tvg-logo="https://i.pinimg.com/originals/5e/51/87/5e5187139348337093e2ea501738e749.png" group-title="Eventi Live",Coupe Gambardella : Dijon U18 vs Rennes U18 (17:15)
+#EXTINF:-1 tvg-id="758" tvg-name="Coupe Gambardella : Dijon U18 vs Rennes U18 (17:15)" tvg-logo="https://iconape.com/wp-content/png_logo_vector/dijon-football-cote-dor-logo.png" group-title="Eventi Live",Coupe Gambardella : Dijon U18 vs Rennes U18 (17:15)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-758.php
 
 #EXTINF:-1 tvg-id="877" tvg-name="Italy - Serie A : Bologna vs Genoa (18:00)" tvg-logo="http://vignette3.wikia.nocookie.net/calciopedia/images/7/78/Bologna_logo.png/revision/latest?cb=20120303090011" group-title="Eventi Live",Italy - Serie A : Bologna vs Genoa (18:00)
@@ -1303,10 +1303,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed
 #EXTINF:-1 tvg-id="31" tvg-name="UEFA Women's Champions League : Arsenal vs Barcelona (18:00)" tvg-logo="https://www.footballkitarchive.com/static/logos/o3lS5aXK39A2XLB/arsenal-fc-1995-1998-logo.png" group-title="Eventi Live",UEFA Women's Champions League : Arsenal vs Barcelona (18:00)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-31.php
 
-#EXTINF:-1 tvg-id="533" tvg-name="UEFA Women's Champions League : Arsenal vs Barcelona (18:00)" tvg-logo="http://1.bp.blogspot.com/-FOQg-cbKaIk/Trpuk_XQoxI/AAAAAAAAFnU/pvbTXEKB-ig/s1600/Arsenal+2002-2011.png" group-title="Eventi Live",UEFA Women's Champions League : Arsenal vs Barcelona (18:00)
+#EXTINF:-1 tvg-id="533" tvg-name="UEFA Women's Champions League : Arsenal vs Barcelona (18:00)" tvg-logo="https://www.footballkitarchive.com/static/logos/o3lS5aXK39A2XLB/arsenal-fc-1995-1998-logo.png" group-title="Eventi Live",UEFA Women's Champions League : Arsenal vs Barcelona (18:00)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-533.php
 
-#EXTINF:-1 tvg-id="425" tvg-name="Super Lig : Göztepe vs Galatasaray (18:00)" tvg-logo="https://1.bp.blogspot.com/-j-ye-b4-H_4/TsfjK5AYWVI/AAAAAAAACEg/gdKYtDK2xrw/s1600/goztepe.png" group-title="Eventi Live",Super Lig : Göztepe vs Galatasaray (18:00)
+#EXTINF:-1 tvg-id="425" tvg-name="Super Lig : Göztepe vs Galatasaray (18:00)" tvg-logo="https://brandlogovector.com/wp-content/uploads/2022/03/Goztepe-Logo.png" group-title="Eventi Live",Super Lig : Göztepe vs Galatasaray (18:00)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-425.php
 
 #EXTINF:-1 tvg-id="109" tvg-name="Spain - La Liga : Leganés vs Real Valladolid (18:30)" tvg-logo="https://i.pinimg.com/originals/28/2d/6f/282d6fac32bee3df2ce325602408fbe3.png" group-title="Eventi Live",Spain - La Liga : Leganés vs Real Valladolid (18:30)
@@ -1315,16 +1315,16 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed
 #EXTINF:-1 tvg-id="110" tvg-name="Spain - La Liga : Espanyol vs Las Palmas (18:30)" tvg-logo="https://clipart.info/images/ccovers/1503438048espanyol-logo-png.png" group-title="Eventi Live",Spain - La Liga : Espanyol vs Las Palmas (18:30)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-110.php
 
-#EXTINF:-1 tvg-id="597" tvg-name="Uruguay - Primera Division : Juventud vs Torque (20:00)" tvg-logo="https://futbolchapin.app/wp-content/uploads/2021/01/logo-juventud-pinulteca.png" group-title="Eventi Live",Uruguay - Primera Division : Juventud vs Torque (20:00)
+#EXTINF:-1 tvg-id="597" tvg-name="Uruguay - Primera Division : Juventud vs Torque (20:00)" tvg-logo="https://logodetimes.com/times/juventus/logo-juventus-8192.png" group-title="Eventi Live",Uruguay - Primera Division : Juventud vs Torque (20:00)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-597.php
 
-#EXTINF:-1 tvg-id="316" tvg-name="DFB Pokal : Arminia Bielefeld vs Stuttgart (20:00)" tvg-logo="http://de.academic.ru/pictures/dewiki/65/Arminia_Logo_1922.png" group-title="Eventi Live",DFB Pokal : Arminia Bielefeld vs Stuttgart (20:00)
+#EXTINF:-1 tvg-id="316" tvg-name="DFB Pokal : Arminia Bielefeld vs Stuttgart (20:00)" tvg-logo="https://www.footballkitarchive.com/static/logos/9MR41DIoYb1uPt8/arminia-bielefeld-2008-logo.png" group-title="Eventi Live",DFB Pokal : Arminia Bielefeld vs Stuttgart (20:00)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-316.php
 
 #EXTINF:-1 tvg-id="550" tvg-name="DFB Pokal : Arminia Bielefeld vs Stuttgart (20:00)" tvg-logo="https://www.footballkitarchive.com/static/logos/9MR41DIoYb1uPt8/arminia-bielefeld-2008-logo.png" group-title="Eventi Live",DFB Pokal : Arminia Bielefeld vs Stuttgart (20:00)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-550.php
 
-#EXTINF:-1 tvg-id="877" tvg-name="DFB Pokal : Arminia Bielefeld vs Stuttgart (20:00)" tvg-logo="https://www.footballkitarchive.com/static/logos/9MR41DIoYb1uPt8/arminia-bielefeld-2008-logo.png" group-title="Eventi Live",DFB Pokal : Arminia Bielefeld vs Stuttgart (20:00)
+#EXTINF:-1 tvg-id="877" tvg-name="DFB Pokal : Arminia Bielefeld vs Stuttgart (20:00)" tvg-logo="http://de.academic.ru/pictures/dewiki/65/Arminia_Logo_1922.png" group-title="Eventi Live",DFB Pokal : Arminia Bielefeld vs Stuttgart (20:00)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-877.php
 
 #EXTINF:-1 tvg-id="759" tvg-name="USL Super League Soccer : Carolina Ascent FC vs Brooklyn FC (20:00)" tvg-logo="https://www.carolinaascent.com/wp-content/uploads/sites/82/2024/03/CAROLINA_ASCENT_Logo.png" group-title="Eventi Live",USL Super League Soccer : Carolina Ascent FC vs Brooklyn FC (20:00)
@@ -1339,7 +1339,7 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed
 #EXTINF:-1 tvg-id="642" tvg-name="Chile - Primera Division : Everton vs Cobresal (21:00)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/04/everton-logo-escudo.png" group-title="Eventi Live",Chile - Primera Division : Everton vs Cobresal (21:00)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-642.php
 
-#EXTINF:-1 tvg-id="151" tvg-name="Spain - La Liga : Deportivo Alavés vs Osasuna (21:00)" tvg-logo="https://logodetimes.com/times/deportivo-alaves/logo-deportivo-alaves-2048.png" group-title="Eventi Live",Spain - La Liga : Deportivo Alavés vs Osasuna (21:00)
+#EXTINF:-1 tvg-id="151" tvg-name="Spain - La Liga : Deportivo Alavés vs Osasuna (21:00)" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/08/alaves-logo.png" group-title="Eventi Live",Spain - La Liga : Deportivo Alavés vs Osasuna (21:00)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-151.php
 
 #EXTINF:-1 tvg-id="153" tvg-name="Spain - La Liga : Getafe vs Celta de Vigo (21:00)" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/10/Logo-Getafe-FC-930x1024.png" group-title="Eventi Live",Spain - La Liga : Getafe vs Celta de Vigo (21:00)
@@ -1357,43 +1357,28 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed
 #EXTINF:-1 tvg-id="54" tvg-name="Major League Soccer : San Diego vs LA Galaxy (22:45)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggZukuN1Mp6rxe2oCob9360clPy2vfN4HME1YFw0LZpisiff1FGBLtTEUhMWZnAdtoK529TwY44gYRCd1aM9hFTgPvuUgbn2c-ZTfmv9mHgA8I91ur3aqE-eqE7I0s5eihfqh8MtkEKBqohJlYo7mY3phG89z0B65DsOS_WfA9O5CvZ67muWdy2Qb-Dso/s512/San Diego FC.png" group-title="Eventi Live",Major League Soccer : San Diego vs LA Galaxy (22:45)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-54.php
 
-#EXTINF:-1 tvg-id="768" tvg-name="Major League Soccer : San Diego vs LA Galaxy (22:45)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggZukuN1Mp6rxe2oCob9360clPy2vfN4HME1YFw0LZpisiff1FGBLtTEUhMWZnAdtoK529TwY44gYRCd1aM9hFTgPvuUgbn2c-ZTfmv9mHgA8I91ur3aqE-eqE7I0s5eihfqh8MtkEKBqohJlYo7mY3phG89z0B65DsOS_WfA9O5CvZ67muWdy2Qb-Dso/s512/San Diego FC.png" group-title="Eventi Live",Major League Soccer : San Diego vs LA Galaxy (22:45)
+#EXTINF:-1 tvg-id="768" tvg-name="Major League Soccer : San Diego vs LA Galaxy (22:45)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3CypI5wO1CNAekiDzznSCLcEB6AWNAF_yRSpgGFbAl41E50alYjc9AZsMkmDqIcTm-Se8uLnf86eDwWOmQ4NoUeeRQHPD4XOU7AI4J5mEKBEGQfAELJIXmnwFWW_Nugu82iu3SN11fLYPRq-d_UkfSiCh3f0fPqC9M7IeSKXZY-W1tKhae-CLymcIxuUd/s1600/san-diego-logo.png" group-title="Eventi Live",Major League Soccer : San Diego vs LA Galaxy (22:45)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-768.php
 
 #EXTINF:-1 tvg-id="34" tvg-name="NWSL : Houston Dash vs Bay FC (23:00)" tvg-logo="https://iconape.com/wp-content/png_logo_vector/houston-dash.png" group-title="Eventi Live",NWSL : Houston Dash vs Bay FC (23:00)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-34.php
 
-#EXTINF:-1 tvg-id="910" tvg-name="NWSL : Houston Dash vs Bay FC (23:00)" tvg-logo="https://the18.com/sites/default/files/1200px-Houston_Dash_logo.svg.png" group-title="Eventi Live",NWSL : Houston Dash vs Bay FC (23:00)
+#EXTINF:-1 tvg-id="910" tvg-name="NWSL : Houston Dash vs Bay FC (23:00)" tvg-logo="https://iconape.com/wp-content/png_logo_vector/houston-dash.png" group-title="Eventi Live",NWSL : Houston Dash vs Bay FC (23:00)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-910.php
 
 #EXTINF:-1 tvg-id="642" tvg-name="Chile - Primera Division : Colo-Colo vs Unión Española (23:30)" tvg-logo="https://www.footballkitarchive.com/static/logos/IpGqhVvBx7frEmA/colo-colo-1980-logo.png" group-title="Eventi Live",Chile - Primera Division : Colo-Colo vs Unión Española (23:30)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-642.php
 
-#EXTINF:-1 tvg-id="388" tvg-name="Argentina - Primera División : Independiente vs Huracán (23:30)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/independiente-logo-png-transparent.png" group-title="Eventi Live",Argentina - Primera División : Independiente vs Huracán (23:30)
+#EXTINF:-1 tvg-id="388" tvg-name="Argentina - Primera División : Independiente vs Huracán (23:30)" tvg-logo="https://www.footballkitarchive.com/static/logos/thumb/vAMSJtITl66KQ6I/ca-independiente-1983-1987-logo.png" group-title="Eventi Live",Argentina - Primera División : Independiente vs Huracán (23:30)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-388.php
 
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="60" tvg-name="Formula 1 : Tag Heuer Monaco Grand Prix - Practice 3 (12:30)" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/6d/f1/69/6df169a34a04347c2fa6deb2ea003d07.png" group-title="Eventi Live",Formula 1 : Tag Heuer Monaco Grand Prix - Practice 3 (12:30)
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-60.php
-
-#EXTINF:-1 tvg-id="45" tvg-name="Formula 1 : Tag Heuer Monaco Grand Prix - Practice 3 (12:30)" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/6d/f1/69/6df169a34a04347c2fa6deb2ea003d07.png" group-title="Eventi Live",Formula 1 : Tag Heuer Monaco Grand Prix - Practice 3 (12:30)
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-45.php
-
-#EXTINF:-1 tvg-id="577" tvg-name="Formula 1 : Tag Heuer Monaco Grand Prix - Practice 3 (12:30)" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/6d/f1/69/6df169a34a04347c2fa6deb2ea003d07.png" group-title="Eventi Live",Formula 1 : Tag Heuer Monaco Grand Prix - Practice 3 (12:30)
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-577.php
-
-#EXTINF:-1 tvg-id="60" tvg-name="Formula 2 : Tag Heuer Monaco Grand Prix - Sprint Race (14:00)" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/6d/f1/69/6df169a34a04347c2fa6deb2ea003d07.png" group-title="Eventi Live",Formula 2 : Tag Heuer Monaco Grand Prix - Sprint Race (14:00)
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-60.php
-
-#EXTINF:-1 tvg-id="577" tvg-name="Formula 2 : Tag Heuer Monaco Grand Prix - Sprint Race (14:00)" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/6d/f1/69/6df169a34a04347c2fa6deb2ea003d07.png" group-title="Eventi Live",Formula 2 : Tag Heuer Monaco Grand Prix - Sprint Race (14:00)
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-577.php
-
 #EXTINF:-1 tvg-id="32" tvg-name="Moto3 : Storbritanniens Grand Prix Qualifying (14:45)" tvg-logo="https://i.redd.it/h6somccxjyab1.png" group-title="Eventi Live",Moto3 : Storbritanniens Grand Prix Qualifying (14:45)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-32.php
 
-#EXTINF:-1 tvg-id="575" tvg-name="Moto3 : Storbritanniens Grand Prix Qualifying (14:45)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png" group-title="Eventi Live",Moto3 : Storbritanniens Grand Prix Qualifying (14:45)
+#EXTINF:-1 tvg-id="575" tvg-name="Moto3 : Storbritanniens Grand Prix Qualifying (14:45)" tvg-logo="https://i.redd.it/h6somccxjyab1.png" group-title="Eventi Live",Moto3 : Storbritanniens Grand Prix Qualifying (14:45)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
 
 #EXTINF:-1 tvg-id="32" tvg-name="Moto2 : Storbritanniens Grand Prix Qualifying (15:40)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png" group-title="Eventi Live",Moto2 : Storbritanniens Grand Prix Qualifying (15:40)
@@ -1405,19 +1390,19 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed
 #EXTINF:-1 tvg-id="60" tvg-name="Formula 1 : Tag Heuer Monaco Grand Prix - Qualifying (16:00)" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/6d/f1/69/6df169a34a04347c2fa6deb2ea003d07.png" group-title="Eventi Live",Formula 1 : Tag Heuer Monaco Grand Prix - Qualifying (16:00)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-60.php
 
-#EXTINF:-1 tvg-id="44" tvg-name="Formula 1 : Tag Heuer Monaco Grand Prix - Qualifying (16:00)" tvg-logo="https://www.tagheuer.com/on/demandware.static/-/Library-Sites-TagHeuer-Shared/default/dw84088631/images/sprites/Monaco/CBL2114.FC6486/SPRITE.png" group-title="Eventi Live",Formula 1 : Tag Heuer Monaco Grand Prix - Qualifying (16:00)
+#EXTINF:-1 tvg-id="44" tvg-name="Formula 1 : Tag Heuer Monaco Grand Prix - Qualifying (16:00)" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/6d/f1/69/6df169a34a04347c2fa6deb2ea003d07.png" group-title="Eventi Live",Formula 1 : Tag Heuer Monaco Grand Prix - Qualifying (16:00)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-44.php
 
 #EXTINF:-1 tvg-id="577" tvg-name="Formula 1 : Tag Heuer Monaco Grand Prix - Qualifying (16:00)" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/6d/f1/69/6df169a34a04347c2fa6deb2ea003d07.png" group-title="Eventi Live",Formula 1 : Tag Heuer Monaco Grand Prix - Qualifying (16:00)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-577.php
 
-#EXTINF:-1 tvg-id="32" tvg-name="MotoGP : Storbritanniens Grand Prix Sprint Race (17:00)" tvg-logo="https://www.pinclipart.com/picdir/big/140-1406657_best-prices-price-tag-icon-png-clipart.png" group-title="Eventi Live",MotoGP : Storbritanniens Grand Prix Sprint Race (17:00)
+#EXTINF:-1 tvg-id="32" tvg-name="MotoGP : Storbritanniens Grand Prix Sprint Race (17:00)" tvg-logo="https://www.pngall.com/wp-content/uploads/10/Grand-Prix-Logo.png" group-title="Eventi Live",MotoGP : Storbritanniens Grand Prix Sprint Race (17:00)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-32.php
 
 #EXTINF:-1 tvg-id="39" tvg-name="MotoGP : Storbritanniens Grand Prix Sprint Race (17:00)" tvg-logo="https://www.pngall.com/wp-content/uploads/10/Grand-Prix-Logo.png" group-title="Eventi Live",MotoGP : Storbritanniens Grand Prix Sprint Race (17:00)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-39.php
 
-#EXTINF:-1 tvg-id="575" tvg-name="MotoGP : Storbritanniens Grand Prix Sprint Race (17:00)" tvg-logo="https://www.pngall.com/wp-content/uploads/10/Grand-Prix-Logo.png" group-title="Eventi Live",MotoGP : Storbritanniens Grand Prix Sprint Race (17:00)
+#EXTINF:-1 tvg-id="575" tvg-name="MotoGP : Storbritanniens Grand Prix Sprint Race (17:00)" tvg-logo="https://www.pinclipart.com/picdir/big/140-1406657_best-prices-price-tag-icon-png-clipart.png" group-title="Eventi Live",MotoGP : Storbritanniens Grand Prix Sprint Race (17:00)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
 
 #EXTINF:-1 tvg-id="32" tvg-name="British Talent Cup : Silverstone GP: Race 1 (18:00)" tvg-logo="http://game.raceroom.com/assets/content/track/silverstone-circuit-4038-logo-original.png" group-title="Eventi Live",British Talent Cup : Silverstone GP: Race 1 (18:00)
@@ -1429,17 +1414,11 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed
 #EXTINF:-1 tvg-id="280" tvg-name="NASCAR Xfinity Racing Series BetMGM 300 (22:30)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/08/NASCAR-Xfinity-Series-Logo.png" group-title="Eventi Live",NASCAR Xfinity Racing Series BetMGM 300 (22:30)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-280.php
 
-#EXTINF:-1 tvg-id="60" tvg-name="Ferrari Challenge (23:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/aq9ndt1673619381.png" group-title="Eventi Live",Ferrari Challenge (23:00)
+#EXTINF:-1 tvg-id="60" tvg-name="Ferrari Challenge (23:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/shrqwq1600981147.png" group-title="Eventi Live",Ferrari Challenge (23:00)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-60.php
 
 #EXTINF:-1 tvg-name="Golf" group-title="Eventi Live",--- Golf ---
 https://example.m3u8
-
-#EXTINF:-1 tvg-id="70" tvg-name="DP World Tour Soudal Open (13:30)" tvg-logo="https://b.fssta.com/uploads/application/leagues/logos/Golf-DP-World.vresize.350.350.medium.0.png" group-title="Eventi Live",DP World Tour Soudal Open (13:30)
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-70.php
-
-#EXTINF:-1 tvg-id="318" tvg-name="DP World Tour Soudal Open (13:30)" tvg-logo="https://b.fssta.com/uploads/application/leagues/logos/Golf-DP-World.vresize.350.350.medium.0.png" group-title="Eventi Live",DP World Tour Soudal Open (13:30)
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-318.php
 
 #EXTINF:-1 tvg-id="70" tvg-name="PGA Tour Charles Schwab Championship (19:00)" tvg-logo="https://loodibee.com/wp-content/uploads/PGA_Tour_logo.png" group-title="Eventi Live",PGA Tour Charles Schwab Championship (19:00)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-70.php
@@ -1471,7 +1450,7 @@ https://example.m3u8
 #EXTINF:-1 tvg-id="51" tvg-name="UFL : Memphis Showboats vs Dallas Renegades (18:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Memphis_Showboats.png/120px-Memphis_Showboats.png" group-title="Eventi Live",UFL : Memphis Showboats vs Dallas Renegades (18:00)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-51.php
 
-#EXTINF:-1 tvg-id="766" tvg-name="UFL : Memphis Showboats vs Dallas Renegades (18:00)" tvg-logo="https://ilovememphisblog.com/sites/default/files/inline-images/memphis_showboats_1984-1985-a.png" group-title="Eventi Live",UFL : Memphis Showboats vs Dallas Renegades (18:00)
+#EXTINF:-1 tvg-id="766" tvg-name="UFL : Memphis Showboats vs Dallas Renegades (18:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Memphis_Showboats.png/120px-Memphis_Showboats.png" group-title="Eventi Live",UFL : Memphis Showboats vs Dallas Renegades (18:00)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-766.php
 
 #EXTINF:-1 tvg-id="51" tvg-name="UFL : Birmingham Stallions vs Michigan Panthers (21:00)" tvg-logo="https://b.fssta.com/uploads/application/usfl/team-logos/Stallions.vresize.350.350.medium.1.png" group-title="Eventi Live",UFL : Birmingham Stallions vs Michigan Panthers (21:00)
@@ -1483,7 +1462,7 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed
 #EXTINF:-1 tvg-name="Baseball" group-title="Eventi Live",--- Baseball ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="44" tvg-name="College Softball NCAA Tournament: Florida vs. Georgia (17:00)" tvg-logo="https://cdn.inspireuplift.com/uploads/images/seller_products/1691547038_5.png" group-title="Eventi Live",College Softball NCAA Tournament: Florida vs. Georgia (17:00)
+#EXTINF:-1 tvg-id="44" tvg-name="College Softball NCAA Tournament: Florida vs. Georgia (17:00)" tvg-logo="https://sardegna.diariosportivo.it/sites/default/files/styles/max_325x325/public/extranet/squadre/nuovaflorida.png?itok=jI5hE7Gz" group-title="Eventi Live",College Softball NCAA Tournament: Florida vs. Georgia (17:00)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-44.php
 
 #EXTINF:-1 tvg-id="44" tvg-name="College Softball NCAA Tournament: South Carolina vs UCLA (19:00)" tvg-logo="https://1000logos.net/wp-content/uploads/2020/02/South-Carolina-Gamecocks-Logo-history.png" group-title="Eventi Live",College Softball NCAA Tournament: South Carolina vs UCLA (19:00)
@@ -1498,7 +1477,7 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed
 #EXTINF:-1 tvg-id="44" tvg-name="College Softball NCAA Tournament: Oklahoma vs Alabama (21:00)" tvg-logo="https://pnghq.com/wp-content/uploads/oklahoma-sooners-logo-png-transparent-svg-vector-13321-1536x1536.png" group-title="Eventi Live",College Softball NCAA Tournament: Oklahoma vs Alabama (21:00)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-44.php
 
-#EXTINF:-1 tvg-id="397" tvg-name="College Baseball : Big Ten Tournament, First Semifinal: Teams TBA (21:00)" tvg-logo="https://content.sportslogos.net/logos/153/4661/full/big_ten_conference_logo_alternate_2002_sportslogosnet-7912.png" group-title="Eventi Live",College Baseball : Big Ten Tournament, First Semifinal: Teams TBA (21:00)
+#EXTINF:-1 tvg-id="397" tvg-name="College Baseball : Big Ten Tournament, First Semifinal: Teams TBA (21:00)" tvg-logo="https://content.sportslogos.net/logos/153/4661/full/big_ten_conference_logo_alternate_2011_sportslogosnet-2378.png" group-title="Eventi Live",College Baseball : Big Ten Tournament, First Semifinal: Teams TBA (21:00)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-397.php
 
 #EXTINF:-1 tvg-id="762" tvg-name="Minor League Baseball : Durham Bulls vs Worcester Red Sox (22:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Durham_Bulls_logo.svg/219px-Durham_Bulls_logo.svg.png" group-title="Eventi Live",Minor League Baseball : Durham Bulls vs Worcester Red Sox (22:00)
@@ -1540,7 +1519,7 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed
 #EXTINF:-1 tvg-name="Basketball" group-title="Eventi Live",--- Basketball ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="404" tvg-name="Africa League : Mbb vs. Nairobi City Thunder (14:30)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/US_Cremonese_logo.svg/1200px-US_Cremonese_logo.svg.png" group-title="Eventi Live",Africa League : Mbb vs. Nairobi City Thunder (14:30)
+#EXTINF:-1 tvg-id="404" tvg-name="Africa League : Mbb vs. Nairobi City Thunder (14:30)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Castrovillari.png/revision/latest?cb=20161111225049" group-title="Eventi Live",Africa League : Mbb vs. Nairobi City Thunder (14:30)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-404.php
 
 #EXTINF:-1 tvg-id="404" tvg-name="Basketball Africa League : Al Ahli Tripoli vs Rwandan Patriotic Army (17:30)" tvg-logo="https://volleybox.net/media/upload/teams/1490400125tmm8U.png" group-title="Eventi Live",Basketball Africa League : Al Ahli Tripoli vs Rwandan Patriotic Army (17:30)
@@ -1549,7 +1528,7 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed
 #EXTINF:-1 tvg-id="879" tvg-name="Italy Lega A : Olimpia Milano vs Trento (18:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Pallacanestro_Olimpia_Milano_logo.svg/400px-Pallacanestro_Olimpia_Milano_logo.svg.png" group-title="Eventi Live",Italy Lega A : Olimpia Milano vs Trento (18:00)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-879.php
 
-#EXTINF:-1 tvg-id="33" tvg-name="WNBA : Indiana Fever W vs New York Liberty W (19:00)" tvg-logo="https://i.pinimg.com/originals/6b/d6/81/6bd681dbd72d96c883f0b29a250e8a2e.png" group-title="Eventi Live",WNBA : Indiana Fever W vs New York Liberty W (19:00)
+#EXTINF:-1 tvg-id="33" tvg-name="WNBA : Indiana Fever W vs New York Liberty W (19:00)" tvg-logo="https://static.nike.com/a/images/t_default/00ef27f7-60b2-4ec0-8866-51b6351467b1/indiana-fever-explorer-edition-womens-dri-fit-wnba-victory-jersey-zB7DFD.png" group-title="Eventi Live",WNBA : Indiana Fever W vs New York Liberty W (19:00)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-33.php
 
 #EXTINF:-1 tvg-id="52" tvg-name="WNBA : Indiana Fever W vs New York Liberty W (19:00)" tvg-logo="https://static.nike.com/a/images/t_default/00ef27f7-60b2-4ec0-8866-51b6351467b1/indiana-fever-explorer-edition-womens-dri-fit-wnba-victory-jersey-zB7DFD.png" group-title="Eventi Live",WNBA : Indiana Fever W vs New York Liberty W (19:00)
@@ -1567,23 +1546,11 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="33" tvg-name="Giro d'Italia | Stage 14 | Multi-Screen Men | Treviso – Nova Gorica/Gorizia (186km) (13:00)" tvg-logo="https://dgalywyr863hv.cloudfront.net/challenges/4d951c9d-aa81-43ea-aaf4-4b86588668b9.png" group-title="Eventi Live",Giro d'Italia | Stage 14 | Multi-Screen Men | Treviso – Nova Gorica/Gorizia (186km) (13:00)
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-33.php
-
-#EXTINF:-1 tvg-id="851" tvg-name="Giro d'Italia | Stage 14 | Multi-Screen Men | Treviso – Nova Gorica/Gorizia (186km) (13:00)" tvg-logo="https://dgalywyr863hv.cloudfront.net/challenges/4d951c9d-aa81-43ea-aaf4-4b86588668b9.png" group-title="Eventi Live",Giro d'Italia | Stage 14 | Multi-Screen Men | Treviso – Nova Gorica/Gorizia (186km) (13:00)
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-851.php
-
-#EXTINF:-1 tvg-id="878" tvg-name="Giro d'Italia | Stage 14 | Multi-Screen Men | Treviso – Nova Gorica/Gorizia (186km) (13:00)" tvg-logo="https://dgalywyr863hv.cloudfront.net/challenges/4d951c9d-aa81-43ea-aaf4-4b86588668b9.png" group-title="Eventi Live",Giro d'Italia | Stage 14 | Multi-Screen Men | Treviso – Nova Gorica/Gorizia (186km) (13:00)
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-878.php
-
 #EXTINF:-1 tvg-id="34" tvg-name="Tour of Burgos | Stage 3 Women | Valle de Valdebezana - Picón Blanco (95km) (14:30)" tvg-logo="https://www.proximus.be/dam/cdn/sites/iportal/images/illustrations/logos/sports-competitions/sports-competitions-2209/Cycling/tour-burgos-logo-cycling-2209.png" group-title="Eventi Live",Tour of Burgos | Stage 3 Women | Valle de Valdebezana - Picón Blanco (95km) (14:30)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-34.php
 
 #EXTINF:-1 tvg-name="Darts" group-title="Eventi Live",--- Darts ---
 https://example.m3u8
-
-#EXTINF:-1 tvg-id="37" tvg-name="PDC Darts Dutch Darts Championship Season 1 (13:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/isf07m1555602216.png/preview" group-title="Eventi Live",PDC Darts Dutch Darts Championship Season 1 (13:00)
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-37.php
 
 #EXTINF:-1 tvg-id="37" tvg-name="PDC Darts Dutch Darts Championship Season 2 (19:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/isf07m1555602216.png/preview" group-title="Eventi Live",PDC Darts Dutch Darts Championship Season 2 (19:00)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-37.php
@@ -1591,20 +1558,11 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed
 #EXTINF:-1 tvg-name="Equestrian" group-title="Eventi Live",--- Equestrian ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="882" tvg-name="Piazza di Siena 2025-Small Grand Prix (14:00)" tvg-logo="https://www.pngall.com/wp-content/uploads/10/Grand-Prix-Logo-PNG-Pic.png" group-title="Eventi Live",Piazza di Siena 2025-Small Grand Prix (14:00)
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-882.php
-
 #EXTINF:-1 tvg-id="851" tvg-name="Piazza di Siena 2025-Small Grand Prix (19:00)" tvg-logo="https://www.pngall.com/wp-content/uploads/10/Grand-Prix-Logo-PNG-Pic.png" group-title="Eventi Live",Piazza di Siena 2025-Small Grand Prix (19:00)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-851.php
 
 #EXTINF:-1 tvg-name="Horse Racing" group-title="Eventi Live",--- Horse Racing ---
 https://example.m3u8
-
-#EXTINF:-1 tvg-id="555" tvg-name="Live racing from Haydock, Goodwood, Beverly, Catterick, Salisbury and the Curragh (13:45)" tvg-logo="https://www.enolamproductions.com/drive/images/liveracing.png" group-title="Eventi Live",Live racing from Haydock, Goodwood, Beverly, Catterick, Salisbury and the Curragh (13:45)
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-555.php
-
-#EXTINF:-1 tvg-id="554" tvg-name="Live racing from around the UK (14:00)" tvg-logo="https://www.enolamproductions.com/drive/images/liveracing.png" group-title="Eventi Live",Live racing from around the UK (14:00)
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-554.php
 
 #EXTINF:-1 tvg-id="39" tvg-name="America's Day at the Races (18:30)" tvg-logo="https://images.seeklogo.com/logo-png/52/3/a-day-at-the-races-queen-album-logo-png_seeklogo-520226.png" group-title="Eventi Live",America's Day at the Races (18:30)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-39.php
@@ -1615,13 +1573,7 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed
 #EXTINF:-1 tvg-name="Ice Hockey" group-title="Eventi Live",--- Ice Hockey ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="663" tvg-name="2025 IIHF World Championship Semifinal 1 : Sweden vs USA (14:00)" tvg-logo="https://www.footballkitarchive.com/static/logos/wIapTBV2fX4M8Rz/sweden-1990-2002-logo.png" group-title="Eventi Live",2025 IIHF World Championship Semifinal 1 : Sweden vs USA (14:00)
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-663.php
-
-#EXTINF:-1 tvg-id="840" tvg-name="2025 IIHF World Championship Semifinal 1 : Sweden vs USA (14:00)" tvg-logo="https://www.footballkitarchive.com/static/logos/wIapTBV2fX4M8Rz/sweden-1990-2002-logo.png" group-title="Eventi Live",2025 IIHF World Championship Semifinal 1 : Sweden vs USA (14:00)
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-840.php
-
-#EXTINF:-1 tvg-id="663" tvg-name="2025 IIHF World Championship Semifinal 2 : Switzerland vs Denmark (18:00)" tvg-logo="https://png.pngtree.com/png-clipart/20220509/original/pngtree-football-fan-logo-with-switzerland-flag-inside-png-image_7667392.png" group-title="Eventi Live",2025 IIHF World Championship Semifinal 2 : Switzerland vs Denmark (18:00)
+#EXTINF:-1 tvg-id="663" tvg-name="2025 IIHF World Championship Semifinal 2 : Switzerland vs Denmark (18:00)" tvg-logo="https://www.footballkitarchive.com/static/logos/zk4eQTcHVwg1sY2/switzerland-1945-1990-logo.png" group-title="Eventi Live",2025 IIHF World Championship Semifinal 2 : Switzerland vs Denmark (18:00)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-663.php
 
 #EXTINF:-1 tvg-id="765" tvg-name="PWHL Walter Cup Final : Ottawa Charge vs Minnesota Frost (23:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/09/Ottawa-Charge-Logo-2024.png" group-title="Eventi Live",PWHL Walter Cup Final : Ottawa Charge vs Minnesota Frost (23:00)
@@ -1636,7 +1588,7 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed
 #EXTINF:-1 tvg-id="45" tvg-name="Men's College Lacrosse : Syracuse vs. Maryland (20:30)" tvg-logo="https://logodix.com/logo/1127917.png" group-title="Eventi Live",Men's College Lacrosse : Syracuse vs. Maryland (20:30)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-45.php
 
-#EXTINF:-1 tvg-id="45" tvg-name="NLL Lacrosse : Saskatchewan Rush vs. Buffalo Bandits (22:30)" tvg-logo="https://teamcolorcodes.com/wp-content/uploads/2022/11/Saskatchewan-Rush-logo.png" group-title="Eventi Live",NLL Lacrosse : Saskatchewan Rush vs. Buffalo Bandits (22:30)
+#EXTINF:-1 tvg-id="45" tvg-name="NLL Lacrosse : Saskatchewan Rush vs. Buffalo Bandits (22:30)" tvg-logo="https://teamcolorcodes.com/wp-content/uploads/2022/11/Saskatchewan-Rush-logo-PNG-300x300.png" group-title="Eventi Live",NLL Lacrosse : Saskatchewan Rush vs. Buffalo Bandits (22:30)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-45.php
 
 #EXTINF:-1 tvg-name="Netball" group-title="Eventi Live",--- Netball ---
@@ -2101,10 +2053,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/41629
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1371293854/index.m3u8
 
 #EXTINF:-1 tvg-name="BABY TV" group-title="Albania", BABY TV
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3166917965/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1728862622/index.m3u8
 
 #EXTINF:-1 tvg-name="BABY TV" group-title="Albania", BABY TV
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1728862622/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3166917965/index.m3u8
 
 #EXTINF:-1 tvg-name="BABY TV (1)" group-title="Albania", BABY TV (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/102200305/index.m3u8
@@ -2383,10 +2335,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/32270
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/932736266/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 2" group-title="Albania", EUROSPORT 2
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/891809142/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2281185372/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 2" group-title="Albania", EUROSPORT 2
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2281185372/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/891809142/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 2 (1)" group-title="Albania", EUROSPORT 2 (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1882724314/index.m3u8
@@ -2443,19 +2395,19 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/25561
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3408901292/index.m3u8
 
 #EXTINF:-1 tvg-name="FILM AKSION" group-title="Albania", FILM AKSION
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/933551170/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2239435112/index.m3u8
 
 #EXTINF:-1 tvg-name="FILM AKSION" group-title="Albania", FILM AKSION
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2239435112/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/933551170/index.m3u8
 
 #EXTINF:-1 tvg-name="FILM AKSION HD (1)" group-title="Albania", FILM AKSION HD (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/892299779/index.m3u8
 
 #EXTINF:-1 tvg-name="FILM AUTOR" group-title="Albania", FILM AUTOR
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2136444486/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1938656552/index.m3u8
 
 #EXTINF:-1 tvg-name="FILM AUTOR" group-title="Albania", FILM AUTOR
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1938656552/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2136444486/index.m3u8
 
 #EXTINF:-1 tvg-name="FILM AUTOR (1)" group-title="Albania", FILM AUTOR (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/202528438/index.m3u8
@@ -2482,10 +2434,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/34997
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/4222132244/index.m3u8
 
 #EXTINF:-1 tvg-name="FILM GOLD" group-title="Albania", FILM GOLD
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/957480230/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/991275578/index.m3u8
 
 #EXTINF:-1 tvg-name="FILM GOLD" group-title="Albania", FILM GOLD
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/991275578/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/957480230/index.m3u8
 
 #EXTINF:-1 tvg-name="FILM GOLD 1 (1)" group-title="Albania", FILM GOLD 1 (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1680183155/index.m3u8
@@ -2743,16 +2695,16 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/42121
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/4241027656/index.m3u8
 
 #EXTINF:-1 tvg-name="KANAL D DRAMA" group-title="Albania", KANAL D DRAMA
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2556265704/index.m3u8
-
-#EXTINF:-1 tvg-name="KANAL D DRAMA" group-title="Albania", KANAL D DRAMA
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3007582774/index.m3u8
 
-#EXTINF:-1 tvg-name="KANALI 7" group-title="Albania", KANALI 7
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2555180624/index.m3u8
+#EXTINF:-1 tvg-name="KANAL D DRAMA" group-title="Albania", KANAL D DRAMA
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2556265704/index.m3u8
 
 #EXTINF:-1 tvg-name="KANALI 7" group-title="Albania", KANALI 7
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2677334340/index.m3u8
+
+#EXTINF:-1 tvg-name="KANALI 7" group-title="Albania", KANALI 7
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2555180624/index.m3u8
 
 #EXTINF:-1 tvg-name="KANALI 7 (1)" group-title="Albania", KANALI 7 (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/271539603/index.m3u8
@@ -2803,10 +2755,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/33357
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3302471423/index.m3u8
 
 #EXTINF:-1 tvg-name="KLAN PLUS" group-title="Albania", KLAN PLUS
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2008163874/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1974890814/index.m3u8
 
 #EXTINF:-1 tvg-name="KLAN PLUS" group-title="Albania", KLAN PLUS
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1974890814/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2008163874/index.m3u8
 
 #EXTINF:-1 tvg-name="KLAN PLUS HD (1)" group-title="Albania", KLAN PLUS HD (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1728418097/index.m3u8
@@ -2983,10 +2935,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/49098
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/624572729/index.m3u8
 
 #EXTINF:-1 tvg-name="MTV KOSOVA" group-title="Albania", MTV KOSOVA
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/4290901514/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/4078695780/index.m3u8
 
 #EXTINF:-1 tvg-name="MTV KOSOVA" group-title="Albania", MTV KOSOVA
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/4078695780/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/4290901514/index.m3u8
 
 #EXTINF:-1 tvg-name="MUSE TV" group-title="Albania", MUSE TV
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2446455375/index.m3u8
@@ -2998,10 +2950,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/12435
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/344556301/index.m3u8
 
 #EXTINF:-1 tvg-name="MY MUSIC" group-title="Albania", MY MUSIC
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3383574772/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3463796704/index.m3u8
 
 #EXTINF:-1 tvg-name="MY MUSIC" group-title="Albania", MY MUSIC
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3463796704/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3383574772/index.m3u8
 
 #EXTINF:-1 tvg-name="NAEEM (1)" group-title="Albania", NAEEM (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3663179118/index.m3u8
@@ -3202,10 +3154,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/25743
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/360782232/index.m3u8
 
 #EXTINF:-1 tvg-name="RTSH 24" group-title="Albania", RTSH 24
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1049131028/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3846665415/index.m3u8
 
 #EXTINF:-1 tvg-name="RTSH 24" group-title="Albania", RTSH 24
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3846665415/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1049131028/index.m3u8
 
 #EXTINF:-1 tvg-name="RTSH 3" group-title="Albania", RTSH 3
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/842544341/index.m3u8
@@ -3274,10 +3226,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/17375
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1800075235/index.m3u8
 
 #EXTINF:-1 tvg-name="RTSH SPORT" group-title="Albania", RTSH SPORT
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1673424152/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1868852854/index.m3u8
 
 #EXTINF:-1 tvg-name="RTSH SPORT" group-title="Albania", RTSH SPORT
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1868852854/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1673424152/index.m3u8
 
 #EXTINF:-1 tvg-name="RTV 2 MIX" group-title="Albania", RTV 2 MIX
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2365781947/index.m3u8
@@ -3376,10 +3328,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/10241
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2011487496/index.m3u8
 
 #EXTINF:-1 tvg-name="RTV PENDIMI" group-title="Albania", RTV PENDIMI
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/614413740/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2520840326/index.m3u8
 
 #EXTINF:-1 tvg-name="RTV PENDIMI" group-title="Albania", RTV PENDIMI
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2520840326/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/614413740/index.m3u8
 
 #EXTINF:-1 tvg-name="RTV PENDIMI HD (1)" group-title="Albania", RTV PENDIMI HD (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2833528379/index.m3u8
@@ -8467,10 +8419,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/15613
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1595188996/index.m3u8
 
 #EXTINF:-1 tvg-name="BHT 1" group-title="Balkans", BHT 1
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2942971146/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3265703113/index.m3u8
 
 #EXTINF:-1 tvg-name="BHT 1" group-title="Balkans", BHT 1
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3265703113/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2942971146/index.m3u8
 
 #EXTINF:-1 tvg-name="BN" group-title="Balkans", BN
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1545863727/index.m3u8
@@ -8560,10 +8512,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/38748
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1202980829/index.m3u8
 
 #EXTINF:-1 tvg-name="CINESTAR FANTASY" group-title="Balkans", CINESTAR FANTASY
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1868891312/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2407104780/index.m3u8
 
 #EXTINF:-1 tvg-name="CINESTAR FANTASY" group-title="Balkans", CINESTAR FANTASY
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2407104780/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1868891312/index.m3u8
 
 #EXTINF:-1 tvg-name="CINESTAR FANTASY (1)" group-title="Balkans", CINESTAR FANTASY (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2089535721/index.m3u8
@@ -8680,10 +8632,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/31263
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/280202434/index.m3u8
 
 #EXTINF:-1 tvg-name="DOCUBOX" group-title="Balkans", DOCUBOX
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/467190435/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3222785648/index.m3u8
 
 #EXTINF:-1 tvg-name="DOCUBOX" group-title="Balkans", DOCUBOX
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3222785648/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/467190435/index.m3u8
 
 #EXTINF:-1 tvg-name="DOKU TV" group-title="Balkans", DOKU TV
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1778938190/index.m3u8
@@ -8731,10 +8683,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/27085
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/330188485/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 2" group-title="Balkans", EUROSPORT 2
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3872518463/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1410219029/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 2" group-title="Balkans", EUROSPORT 2
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1410219029/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3872518463/index.m3u8
 
 #EXTINF:-1 tvg-name="FACE TV" group-title="Balkans", FACE TV
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/805398492/index.m3u8
@@ -8806,10 +8758,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/17889
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1442214730/index.m3u8
 
 #EXTINF:-1 tvg-name="HAYAT" group-title="Balkans", HAYAT
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3144317054/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3601267133/index.m3u8
 
 #EXTINF:-1 tvg-name="HAYAT" group-title="Balkans", HAYAT
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3601267133/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3144317054/index.m3u8
 
 #EXTINF:-1 tvg-name="HAYAT 2" group-title="Balkans", HAYAT 2
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1005969581/index.m3u8
@@ -8854,10 +8806,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/38284
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2249984707/index.m3u8
 
 #EXTINF:-1 tvg-name="HBO 3" group-title="Balkans", HBO 3
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3030196232/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3646005707/index.m3u8
 
 #EXTINF:-1 tvg-name="HBO 3" group-title="Balkans", HBO 3
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3646005707/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3030196232/index.m3u8
 
 #EXTINF:-1 tvg-name="HBO 3 HD (1)" group-title="Balkans", HBO 3 HD (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1253444189/index.m3u8
@@ -8881,10 +8833,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/21335
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/54647568/index.m3u8
 
 #EXTINF:-1 tvg-name="HISTORY CHANNEL" group-title="Balkans", HISTORY CHANNEL
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1761826370/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3463706015/index.m3u8
 
 #EXTINF:-1 tvg-name="HISTORY CHANNEL" group-title="Balkans", HISTORY CHANNEL
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3463706015/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1761826370/index.m3u8
 
 #EXTINF:-1 tvg-name="HISTORY HD (1)" group-title="Balkans", HISTORY HD (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/639412623/index.m3u8
@@ -8989,10 +8941,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/15004
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1678720811/index.m3u8
 
 #EXTINF:-1 tvg-name="MINI TV" group-title="Balkans", MINI TV
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2786546292/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2111332007/index.m3u8
 
 #EXTINF:-1 tvg-name="MINI TV" group-title="Balkans", MINI TV
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2111332007/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2786546292/index.m3u8
 
 #EXTINF:-1 tvg-name="MINIMAX" group-title="Balkans", MINIMAX
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2690470424/index.m3u8
@@ -9019,10 +8971,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/13487
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2826018474/index.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO" group-title="Balkans", NAT GEO
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3939261835/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/822301016/index.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO" group-title="Balkans", NAT GEO
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/822301016/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3939261835/index.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO WILD" group-title="Balkans", NAT GEO WILD
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2112036279/index.m3u8
@@ -9388,10 +9340,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/29835
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3171935302/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL PASSION" group-title="Balkans", RTL PASSION
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2764286316/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/370959430/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL PASSION" group-title="Balkans", RTL PASSION
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/370959430/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2764286316/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL PLUS" group-title="Balkans", RTL PLUS
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/4134849174/index.m3u8
@@ -9484,10 +9436,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/29858
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2936483261/index.m3u8
 
 #EXTINF:-1 tvg-name="SPORT KLUB 3" group-title="Balkans", SPORT KLUB 3
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3267023153/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/23764060/index.m3u8
 
 #EXTINF:-1 tvg-name="SPORT KLUB 3" group-title="Balkans", SPORT KLUB 3
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/23764060/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3267023153/index.m3u8
 
 #EXTINF:-1 tvg-name="SPORT KLUB 3 (1)" group-title="Balkans", SPORT KLUB 3 (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2358818641/index.m3u8
@@ -9637,10 +9589,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/28348
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1411303991/index.m3u8
 
 #EXTINF:-1 tvg-name="VIASAT EXPLORE" group-title="Balkans", VIASAT EXPLORE
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2230799510/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/4251906469/index.m3u8
 
 #EXTINF:-1 tvg-name="VIASAT EXPLORE" group-title="Balkans", VIASAT EXPLORE
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/4251906469/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2230799510/index.m3u8
 
 #EXTINF:-1 tvg-name="VIASAT EXPLORE (1)" group-title="Balkans", VIASAT EXPLORE (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2538406656/index.m3u8
@@ -9706,10 +9658,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/54979
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1606160440/index.m3u8
 
 #EXTINF:-1 tvg-name="ANIMAL PLANET" group-title="Bulgaria", ANIMAL PLANET
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/4025501657/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2523527914/index.m3u8
 
 #EXTINF:-1 tvg-name="ANIMAL PLANET" group-title="Bulgaria", ANIMAL PLANET
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2523527914/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/4025501657/index.m3u8
 
 #EXTINF:-1 tvg-name="AUTO MOTOR SPORT" group-title="Bulgaria", AUTO MOTOR SPORT
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3208497021/index.m3u8
@@ -9787,10 +9739,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/13171
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/442015131/index.m3u8
 
 #EXTINF:-1 tvg-name="BTV" group-title="Bulgaria", BTV
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2650040518/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3800908036/index.m3u8
 
 #EXTINF:-1 tvg-name="BTV" group-title="Bulgaria", BTV
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3800908036/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2650040518/index.m3u8
 
 #EXTINF:-1 tvg-name="BTV ACTION" group-title="Bulgaria", BTV ACTION
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/536338491/index.m3u8
@@ -10069,16 +10021,16 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/35997
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3566525947/index.m3u8
 
 #EXTINF:-1 tvg-name="MAX SPORT 1" group-title="Bulgaria", MAX SPORT 1
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1421125992/index.m3u8
-
-#EXTINF:-1 tvg-name="MAX SPORT 1" group-title="Bulgaria", MAX SPORT 1
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2539971589/index.m3u8
 
-#EXTINF:-1 tvg-name="MAX SPORT 2" group-title="Bulgaria", MAX SPORT 2
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3502546645/index.m3u8
+#EXTINF:-1 tvg-name="MAX SPORT 1" group-title="Bulgaria", MAX SPORT 1
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1421125992/index.m3u8
 
 #EXTINF:-1 tvg-name="MAX SPORT 2" group-title="Bulgaria", MAX SPORT 2
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/320132024/index.m3u8
+
+#EXTINF:-1 tvg-name="MAX SPORT 2" group-title="Bulgaria", MAX SPORT 2
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3502546645/index.m3u8
 
 #EXTINF:-1 tvg-name="MAX SPORT 3" group-title="Bulgaria", MAX SPORT 3
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3986995045/index.m3u8
@@ -10087,10 +10039,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/39869
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/779418120/index.m3u8
 
 #EXTINF:-1 tvg-name="MAX SPORT 4" group-title="Bulgaria", MAX SPORT 4
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1602513781/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2622760472/index.m3u8
 
 #EXTINF:-1 tvg-name="MAX SPORT 4" group-title="Bulgaria", MAX SPORT 4
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2622760472/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1602513781/index.m3u8
 
 #EXTINF:-1 tvg-name="MOTORVISION" group-title="Bulgaria", MOTORVISION
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1804212747/index.m3u8
@@ -10114,16 +10066,16 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/11033
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1176264166/index.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO WILD" group-title="Bulgaria", NAT GEO WILD
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3093560896/index.m3u8
-
-#EXTINF:-1 tvg-name="NAT GEO WILD" group-title="Bulgaria", NAT GEO WILD
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2474272926/index.m3u8
 
-#EXTINF:-1 tvg-name="NICK JR" group-title="Bulgaria", NICK JR
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/805571294/index.m3u8
+#EXTINF:-1 tvg-name="NAT GEO WILD" group-title="Bulgaria", NAT GEO WILD
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3093560896/index.m3u8
 
 #EXTINF:-1 tvg-name="NICK JR" group-title="Bulgaria", NICK JR
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/937172426/index.m3u8
+
+#EXTINF:-1 tvg-name="NICK JR" group-title="Bulgaria", NICK JR
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/805571294/index.m3u8
 
 #EXTINF:-1 tvg-name="NICKELODEON" group-title="Bulgaria", NICKELODEON
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1036143516/index.m3u8
@@ -10501,10 +10453,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/37271
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/940422746/index.m3u8
 
 #EXTINF:-1 tvg-name="ANIMAUX" group-title="France", ANIMAUX
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2309251906/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2474469311/index.m3u8
 
 #EXTINF:-1 tvg-name="ANIMAUX" group-title="France", ANIMAUX
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2474469311/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2309251906/index.m3u8
 
 #EXTINF:-1 tvg-name="ANIMAUX (1)" group-title="France", ANIMAUX (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1553062354/index.m3u8
@@ -11110,10 +11062,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/70378
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1066093298/index.m3u8
 
 #EXTINF:-1 tvg-name="CANAL+ SPORT 360" group-title="France", CANAL+ SPORT 360
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1814819760/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3411759213/index.m3u8
 
 #EXTINF:-1 tvg-name="CANAL+ SPORT 360" group-title="France", CANAL+ SPORT 360
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3411759213/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1814819760/index.m3u8
 
 #EXTINF:-1 tvg-name="CANAL+ SPORT 4" group-title="France", CANAL+ SPORT 4
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2376832738/index.m3u8
@@ -11146,10 +11098,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/41290
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/511277245/index.m3u8
 
 #EXTINF:-1 tvg-name="CHASSE & PECHE" group-title="France", CHASSE & PECHE
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2674834370/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3027709212/index.m3u8
 
 #EXTINF:-1 tvg-name="CHASSE & PECHE" group-title="France", CHASSE & PECHE
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3027709212/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2674834370/index.m3u8
 
 #EXTINF:-1 tvg-name="CHASSE ET PECHE (1)" group-title="France", CHASSE ET PECHE (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2716078255/index.m3u8
@@ -11221,10 +11173,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/35121
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3677483481/index.m3u8
 
 #EXTINF:-1 tvg-name="CINE+ CLUB" group-title="France", CINE+ CLUB
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1767264919/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1800537483/index.m3u8
 
 #EXTINF:-1 tvg-name="CINE+ CLUB" group-title="France", CINE+ CLUB
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1800537483/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1767264919/index.m3u8
 
 #EXTINF:-1 tvg-name="CINE+ CLUB FHD (1)" group-title="France", CINE+ CLUB FHD (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2651402557/index.m3u8
@@ -11353,10 +11305,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/21408
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1088703292/index.m3u8
 
 #EXTINF:-1 tvg-name="DAZN 1" group-title="France", DAZN 1
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3110706438/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3567590597/index.m3u8
 
 #EXTINF:-1 tvg-name="DAZN 1" group-title="France", DAZN 1
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3567590597/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3110706438/index.m3u8
 
 #EXTINF:-1 tvg-name="DAZN 1 LEAUGE 1" group-title="France", DAZN 1 LEAUGE 1
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3864281936/index.m3u8
@@ -11527,10 +11479,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/13299
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3237934255/index.m3u8
 
 #EXTINF:-1 tvg-name="DISNEY+" group-title="France", DISNEY+
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2427544834/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2322096639/index.m3u8
 
 #EXTINF:-1 tvg-name="DISNEY+" group-title="France", DISNEY+
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2322096639/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2427544834/index.m3u8
 
 #EXTINF:-1 tvg-name="E!" group-title="France", E!
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3093319007/index.m3u8
@@ -11722,10 +11674,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/46629
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3928989342/index.m3u8
 
 #EXTINF:-1 tvg-name="GAME ONE" group-title="France", GAME ONE
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1479966396/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2214163055/index.m3u8
 
 #EXTINF:-1 tvg-name="GAME ONE" group-title="France", GAME ONE
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2214163055/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1479966396/index.m3u8
 
 #EXTINF:-1 tvg-name="GAME ONE (1)" group-title="France", GAME ONE (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/959272147/index.m3u8
@@ -11791,10 +11743,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/66599
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/985897714/index.m3u8
 
 #EXTINF:-1 tvg-name="I24 NEWS" group-title="France", I24 NEWS
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3150455692/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1611083615/index.m3u8
 
 #EXTINF:-1 tvg-name="I24 NEWS" group-title="France", I24 NEWS
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1611083615/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3150455692/index.m3u8
 
 #EXTINF:-1 tvg-name="IMEARTH" group-title="France", IMEARTH
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2487295275/index.m3u8
@@ -11821,10 +11773,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/37913
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2863072722/index.m3u8
 
 #EXTINF:-1 tvg-name="J ONE" group-title="France", J ONE
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/504247527/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1635196197/index.m3u8
 
 #EXTINF:-1 tvg-name="J ONE" group-title="France", J ONE
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1635196197/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/504247527/index.m3u8
 
 #EXTINF:-1 tvg-name="J-ONE (1)" group-title="France", J-ONE (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/874035777/index.m3u8
@@ -11854,10 +11806,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/31432
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/4244248547/index.m3u8
 
 #EXTINF:-1 tvg-name="LA CHAINE METEO" group-title="France", LA CHAINE METEO
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/113813193/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2136022010/index.m3u8
 
 #EXTINF:-1 tvg-name="LA CHAINE METEO" group-title="France", LA CHAINE METEO
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2136022010/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/113813193/index.m3u8
 
 #EXTINF:-1 tvg-name="LA TROIS" group-title="France", LA TROIS
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2866202423/index.m3u8
@@ -12043,10 +11995,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/37201
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1317243355/index.m3u8
 
 #EXTINF:-1 tvg-name="MTV FRANCE" group-title="France", MTV FRANCE
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/808220806/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/841494426/index.m3u8
 
 #EXTINF:-1 tvg-name="MTV FRANCE" group-title="France", MTV FRANCE
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/841494426/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/808220806/index.m3u8
 
 #EXTINF:-1 tvg-name="MTV HITS" group-title="France", MTV HITS
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2301201739/index.m3u8
@@ -12151,10 +12103,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/26003
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3260291200/index.m3u8
 
 #EXTINF:-1 tvg-name="NICKELODEON TEEN" group-title="France", NICKELODEON TEEN
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1840584121/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3401954916/index.m3u8
 
 #EXTINF:-1 tvg-name="NICKELODEON TEEN" group-title="France", NICKELODEON TEEN
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3401954916/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1840584121/index.m3u8
 
 #EXTINF:-1 tvg-name="NICKELODEON TEEN (1)" group-title="France", NICKELODEON TEEN (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2578758168/index.m3u8
@@ -12184,10 +12136,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/41951
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/824018318/index.m3u8
 
 #EXTINF:-1 tvg-name="NRJ HITS" group-title="France", NRJ HITS
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/730920094/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/4032821325/index.m3u8
 
 #EXTINF:-1 tvg-name="NRJ HITS" group-title="France", NRJ HITS
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/4032821325/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/730920094/index.m3u8
 
 #EXTINF:-1 tvg-name="NRJ HITS HD (1)" group-title="France", NRJ HITS HD (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3639203183/index.m3u8
@@ -12208,10 +12160,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/13407
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1215276492/index.m3u8
 
 #EXTINF:-1 tvg-name="OCS CITY" group-title="France", OCS CITY
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/321654063/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3370320380/index.m3u8
 
 #EXTINF:-1 tvg-name="OCS CITY" group-title="France", OCS CITY
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3370320380/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/321654063/index.m3u8
 
 #EXTINF:-1 tvg-name="OCS CITY (1)" group-title="France", OCS CITY (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1916217152/index.m3u8
@@ -12691,10 +12643,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/10613
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2241286879/index.m3u8
 
 #EXTINF:-1 tvg-name="RT FRANCE" group-title="France", RT FRANCE
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1389909769/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1426079773/index.m3u8
 
 #EXTINF:-1 tvg-name="RT FRANCE" group-title="France", RT FRANCE
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1426079773/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1389909769/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL 9" group-title="France", RTL 9
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/506999453/index.m3u8
@@ -12733,10 +12685,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/18306
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/466214058/index.m3u8
 
 #EXTINF:-1 tvg-name="SERIE CLUB" group-title="France", SERIE CLUB
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1534887525/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1501090169/index.m3u8
 
 #EXTINF:-1 tvg-name="SERIE CLUB" group-title="France", SERIE CLUB
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1501090169/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1534887525/index.m3u8
 
 #EXTINF:-1 tvg-name="SERIE CLUB (1)" group-title="France", SERIE CLUB (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/328726150/index.m3u8
@@ -12859,10 +12811,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/61014
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/4185021864/index.m3u8
 
 #EXTINF:-1 tvg-name="TMC" group-title="France", TMC
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1149078876/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/361211396/index.m3u8
 
 #EXTINF:-1 tvg-name="TMC" group-title="France", TMC
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/361211396/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1149078876/index.m3u8
 
 #EXTINF:-1 tvg-name="TMC HD" group-title="France", TMC HD
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/354095306/index.m3u8
@@ -12913,10 +12865,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/54865
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1569435048/index.m3u8
 
 #EXTINF:-1 tvg-name="TV BREIZH" group-title="France", TV BREIZH
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2375091891/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2320044455/index.m3u8
 
 #EXTINF:-1 tvg-name="TV BREIZH" group-title="France", TV BREIZH
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2320044455/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2375091891/index.m3u8
 
 #EXTINF:-1 tvg-name="TV BREIZH (1)" group-title="France", TV BREIZH (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/36354660/index.m3u8
@@ -12952,10 +12904,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/42755
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/70655167/index.m3u8
 
 #EXTINF:-1 tvg-name="TV7 COLMAR" group-title="France", TV7 COLMAR
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2804216365/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2770380081/index.m3u8
 
 #EXTINF:-1 tvg-name="TV7 COLMAR" group-title="France", TV7 COLMAR
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2770380081/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2804216365/index.m3u8
 
 #EXTINF:-1 tvg-name="TV78" group-title="France", TV78
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/744802293/index.m3u8
@@ -13036,10 +12988,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/51258
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2037441576/index.m3u8
 
 #EXTINF:-1 tvg-name="13TH STREET" group-title="Germany", 13TH STREET
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3160812963/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/247062665/index.m3u8
 
 #EXTINF:-1 tvg-name="13TH STREET" group-title="Germany", 13TH STREET
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/247062665/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3160812963/index.m3u8
 
 #EXTINF:-1 tvg-name="13TH STREET HD (1)" group-title="Germany", 13TH STREET HD (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3854738303/index.m3u8
@@ -13129,10 +13081,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/56403
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/777757543/index.m3u8
 
 #EXTINF:-1 tvg-name="AUTO MOTOR SPORT" group-title="Germany", AUTO MOTOR SPORT
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1834925213/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2369927457/index.m3u8
 
 #EXTINF:-1 tvg-name="AUTO MOTOR SPORT" group-title="Germany", AUTO MOTOR SPORT
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2369927457/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1834925213/index.m3u8
 
 #EXTINF:-1 tvg-name="AUTO MOTOR SPORT HD (1)" group-title="Germany", AUTO MOTOR SPORT HD (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2076609123/index.m3u8
@@ -13294,10 +13246,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/38919
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3858606957/index.m3u8
 
 #EXTINF:-1 tvg-name="BOOMERANG" group-title="Germany", BOOMERANG
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1176845609/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1143040565/index.m3u8
 
 #EXTINF:-1 tvg-name="BOOMERANG" group-title="Germany", BOOMERANG
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1143040565/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1176845609/index.m3u8
 
 #EXTINF:-1 tvg-name="BOOMERANG (1)" group-title="Germany", BOOMERANG (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/248401354/index.m3u8
@@ -13348,10 +13300,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/24744
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1473461255/index.m3u8
 
 #EXTINF:-1 tvg-name="COMEDY CENTRAL" group-title="Germany", COMEDY CENTRAL
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/100496654/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2086979645/index.m3u8
 
 #EXTINF:-1 tvg-name="COMEDY CENTRAL" group-title="Germany", COMEDY CENTRAL
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2086979645/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/100496654/index.m3u8
 
 #EXTINF:-1 tvg-name="COMEDY CENTRAL (1)" group-title="Germany", COMEDY CENTRAL (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/373766808/index.m3u8
@@ -13369,10 +13321,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/42404
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1966968276/index.m3u8
 
 #EXTINF:-1 tvg-name="DAS ERSTE" group-title="Germany", DAS ERSTE
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2814908252/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2781626432/index.m3u8
 
 #EXTINF:-1 tvg-name="DAS ERSTE" group-title="Germany", DAS ERSTE
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2781626432/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2814908252/index.m3u8
 
 #EXTINF:-1 tvg-name="DAS ERSTE HD (1)" group-title="Germany", DAS ERSTE HD (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1340558123/index.m3u8
@@ -13990,10 +13942,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/10220
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2391686171/index.m3u8
 
 #EXTINF:-1 tvg-name="KIKA" group-title="Germany", KIKA
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3147695288/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3303484794/index.m3u8
 
 #EXTINF:-1 tvg-name="KIKA" group-title="Germany", KIKA
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3303484794/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3147695288/index.m3u8
 
 #EXTINF:-1 tvg-name="KIKA (1)" group-title="Germany", KIKA (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1978971661/index.m3u8
@@ -14026,10 +13978,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/13128
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/161459015/index.m3u8
 
 #EXTINF:-1 tvg-name="KINOWELT TV" group-title="Germany", KINOWELT TV
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3932731827/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1488417945/index.m3u8
 
 #EXTINF:-1 tvg-name="KINOWELT TV" group-title="Germany", KINOWELT TV
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1488417945/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3932731827/index.m3u8
 
 #EXTINF:-1 tvg-name="KINOWELT TV (1)" group-title="Germany", KINOWELT TV (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/497585717/index.m3u8
@@ -14101,10 +14053,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/27789
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1762209183/index.m3u8
 
 #EXTINF:-1 tvg-name="MAGENTA SPORT 1" group-title="Germany", MAGENTA SPORT 1
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3432695221/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1810523752/index.m3u8
 
 #EXTINF:-1 tvg-name="MAGENTA SPORT 1" group-title="Germany", MAGENTA SPORT 1
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1810523752/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3432695221/index.m3u8
 
 #EXTINF:-1 tvg-name="MAGENTA SPORT 10" group-title="Germany", MAGENTA SPORT 10
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1438750126/index.m3u8
@@ -14140,19 +14092,19 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/38903
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1706155631/index.m3u8
 
 #EXTINF:-1 tvg-name="MAGENTA SPORT 2" group-title="Germany", MAGENTA SPORT 2
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/743054520/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2335883109/index.m3u8
 
 #EXTINF:-1 tvg-name="MAGENTA SPORT 2" group-title="Germany", MAGENTA SPORT 2
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2335883109/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/743054520/index.m3u8
 
 #EXTINF:-1 tvg-name="MAGENTA SPORT 20" group-title="Germany", MAGENTA SPORT 20
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3545622272/index.m3u8
 
 #EXTINF:-1 tvg-name="MAGENTA SPORT 3" group-title="Germany", MAGENTA SPORT 3
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/287978760/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3059390165/index.m3u8
 
 #EXTINF:-1 tvg-name="MAGENTA SPORT 3" group-title="Germany", MAGENTA SPORT 3
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3059390165/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/287978760/index.m3u8
 
 #EXTINF:-1 tvg-name="MAGENTA SPORT 4" group-title="Germany", MAGENTA SPORT 4
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2735401240/index.m3u8
@@ -14161,28 +14113,28 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/27354
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/75123397/index.m3u8
 
 #EXTINF:-1 tvg-name="MAGENTA SPORT 5" group-title="Germany", MAGENTA SPORT 5
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/958030709/index.m3u8
-
-#EXTINF:-1 tvg-name="MAGENTA SPORT 5" group-title="Germany", MAGENTA SPORT 5
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2657796264/index.m3u8
 
-#EXTINF:-1 tvg-name="MAGENTA SPORT 6" group-title="Germany", MAGENTA SPORT 6
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2126125477/index.m3u8
+#EXTINF:-1 tvg-name="MAGENTA SPORT 5" group-title="Germany", MAGENTA SPORT 5
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/958030709/index.m3u8
 
 #EXTINF:-1 tvg-name="MAGENTA SPORT 6" group-title="Germany", MAGENTA SPORT 6
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3653941880/index.m3u8
 
-#EXTINF:-1 tvg-name="MAGENTA SPORT 7" group-title="Germany", MAGENTA SPORT 7
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1138372629/index.m3u8
+#EXTINF:-1 tvg-name="MAGENTA SPORT 6" group-title="Germany", MAGENTA SPORT 6
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2126125477/index.m3u8
 
 #EXTINF:-1 tvg-name="MAGENTA SPORT 7" group-title="Germany", MAGENTA SPORT 7
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3836384200/index.m3u8
 
-#EXTINF:-1 tvg-name="MAGENTA SPORT 8" group-title="Germany", MAGENTA SPORT 8
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3247089604/index.m3u8
+#EXTINF:-1 tvg-name="MAGENTA SPORT 7" group-title="Germany", MAGENTA SPORT 7
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1138372629/index.m3u8
 
 #EXTINF:-1 tvg-name="MAGENTA SPORT 8" group-title="Germany", MAGENTA SPORT 8
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1727661081/index.m3u8
+
+#EXTINF:-1 tvg-name="MAGENTA SPORT 8" group-title="Germany", MAGENTA SPORT 8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3247089604/index.m3u8
 
 #EXTINF:-1 tvg-name="MAGENTA SPORT 9" group-title="Germany", MAGENTA SPORT 9
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1536830889/index.m3u8
@@ -14266,10 +14218,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/19589
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1640371259/index.m3u8
 
 #EXTINF:-1 tvg-name="N-TV" group-title="Germany", N-TV
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3552489524/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2898762230/index.m3u8
 
 #EXTINF:-1 tvg-name="N-TV" group-title="Germany", N-TV
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2898762230/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3552489524/index.m3u8
 
 #EXTINF:-1 tvg-name="N-TV HD (1)" group-title="Germany", N-TV HD (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2784325436/index.m3u8
@@ -14356,10 +14308,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/84641
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3316874696/index.m3u8
 
 #EXTINF:-1 tvg-name="NICKTOONS" group-title="Germany", NICKTOONS
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2919037797/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2952309881/index.m3u8
 
 #EXTINF:-1 tvg-name="NICKTOONS" group-title="Germany", NICKTOONS
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2952309881/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2919037797/index.m3u8
 
 #EXTINF:-1 tvg-name="NICKTOONS (1)" group-title="Germany", NICKTOONS (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3843525510/index.m3u8
@@ -14443,10 +14395,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/27475
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1713001419/index.m3u8
 
 #EXTINF:-1 tvg-name="ONE" group-title="Germany", ONE
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1989120851/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/196602824/index.m3u8
 
 #EXTINF:-1 tvg-name="ONE" group-title="Germany", ONE
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/196602824/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1989120851/index.m3u8
 
 #EXTINF:-1 tvg-name="ONE (1)" group-title="Germany", ONE (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3269507991/index.m3u8
@@ -14707,10 +14659,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/27328
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1758367531/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL CRIME" group-title="Germany", RTL CRIME
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2364963583/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2398236131/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL CRIME" group-title="Germany", RTL CRIME
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2398236131/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2364963583/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL CRIME (1)" group-title="Germany", RTL CRIME (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3323550976/index.m3u8
@@ -14755,10 +14707,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/11042
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/141752470/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL PASSION" group-title="Germany", RTL PASSION
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/4290175185/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1298738683/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL PASSION" group-title="Germany", RTL PASSION
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1298738683/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/4290175185/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL PASSION (1)" group-title="Germany", RTL PASSION (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3131644541/index.m3u8
@@ -14770,10 +14722,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/12446
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1170962566/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL UP" group-title="Germany", RTL UP
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1572144716/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1198260913/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL UP" group-title="Germany", RTL UP
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1198260913/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1572144716/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL ZWEI" group-title="Germany", RTL ZWEI
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2877582637/index.m3u8
@@ -15064,10 +15016,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/24734
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1074950765/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY ATLANTIC" group-title="Germany", SKY ATLANTIC
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2340670204/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1213433745/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY ATLANTIC" group-title="Germany", SKY ATLANTIC
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1213433745/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2340670204/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY ATLANTIC HD (1)" group-title="Germany", SKY ATLANTIC HD (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3714049053/index.m3u8
@@ -15361,10 +15313,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/19381
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/750680993/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA FAMILY" group-title="Germany", SKY CINEMA FAMILY
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1091552264/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2615245916/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA FAMILY" group-title="Germany", SKY CINEMA FAMILY
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2615245916/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1091552264/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA FAMILY HD+ (1)" group-title="Germany", SKY CINEMA FAMILY HD+ (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1988074518/index.m3u8
@@ -15382,10 +15334,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/27037
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1723046465/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA HITS" group-title="Germany", SKY CINEMA HITS
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3650034867/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2130689902/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA HITS" group-title="Germany", SKY CINEMA HITS
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2130689902/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3650034867/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA HITS (1)" group-title="Germany", SKY CINEMA HITS (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2331906255/index.m3u8
@@ -15433,10 +15385,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/31509
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3112374461/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA THRILLER" group-title="Germany", SKY CINEMA THRILLER
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2563154037/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/571248465/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA THRILLER" group-title="Germany", SKY CINEMA THRILLER
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/571248465/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2563154037/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA THRILLER HD+ (1)" group-title="Germany", SKY CINEMA THRILLER HD+ (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/85520340/index.m3u8
@@ -15475,10 +15427,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/25921
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/446346560/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY KRIMI" group-title="Germany", SKY KRIMI
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2355208571/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2389046887/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY KRIMI" group-title="Germany", SKY KRIMI
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2389046887/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2355208571/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY KRIMI HD (1)" group-title="Germany", SKY KRIMI HD (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1869613335/index.m3u8
@@ -15616,10 +15568,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/25822
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1577371598/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 4" group-title="Germany", SKY SELECT 4
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1709754729/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2788721668/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 4" group-title="Germany", SKY SELECT 4
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2788721668/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1709754729/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 4 (1)" group-title="Germany", SKY SELECT 4 (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/734703369/index.m3u8
@@ -15628,10 +15580,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/73470
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1421987543/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 5" group-title="Germany", SKY SELECT 5
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1485365465/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2606280116/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 5" group-title="Germany", SKY SELECT 5
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2606280116/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1485365465/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 5 (1)" group-title="Germany", SKY SELECT 5 (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/380274361/index.m3u8
@@ -15664,10 +15616,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/18189
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3662596404/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 8" group-title="Germany", SKY SELECT 8
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2685936744/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1674078469/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 8" group-title="Germany", SKY SELECT 8
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1674078469/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2685936744/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 8 (1)" group-title="Germany", SKY SELECT 8 (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3996795400/index.m3u8
@@ -15856,10 +15808,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/41012
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3799248107/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SPORT MIX" group-title="Germany", SKY SPORT MIX
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/756758171/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/100835397/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SPORT MIX" group-title="Germany", SKY SPORT MIX
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/100835397/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/756758171/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SPORT NEWS" group-title="Germany", SKY SPORT NEWS
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/4156854331/index.m3u8
@@ -15934,10 +15886,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/87323
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/725548284/index.m3u8
 
 #EXTINF:-1 tvg-name="SPIEGEL GESCHICHTE" group-title="Germany", SPIEGEL GESCHICHTE
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1039565178/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1240703321/index.m3u8
 
 #EXTINF:-1 tvg-name="SPIEGEL GESCHICHTE" group-title="Germany", SPIEGEL GESCHICHTE
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1240703321/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1039565178/index.m3u8
 
 #EXTINF:-1 tvg-name="SPIEGEL GESCHICHTE (1)" group-title="Germany", SPIEGEL GESCHICHTE (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/382424172/index.m3u8
@@ -16045,10 +15997,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/29694
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3164307077/index.m3u8
 
 #EXTINF:-1 tvg-name="SUPER RTL" group-title="Germany", SUPER RTL
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1111300344/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1077497828/index.m3u8
 
 #EXTINF:-1 tvg-name="SUPER RTL" group-title="Germany", SUPER RTL
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1077497828/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1111300344/index.m3u8
 
 #EXTINF:-1 tvg-name="SUPER RTL (1)" group-title="Germany", SUPER RTL (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/181823515/index.m3u8
@@ -16096,10 +16048,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/30936
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/512135720/index.m3u8
 
 #EXTINF:-1 tvg-name="TELE 5" group-title="Germany", TELE 5
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/950216500/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/578429897/index.m3u8
 
 #EXTINF:-1 tvg-name="TELE 5" group-title="Germany", TELE 5
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/578429897/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/950216500/index.m3u8
 
 #EXTINF:-1 tvg-name="TELE 5 TV (1)" group-title="Germany", TELE 5 TV (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1693994894/index.m3u8
@@ -16234,10 +16186,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/12784
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1318804769/index.m3u8
 
 #EXTINF:-1 tvg-name="TV INGOLSTADT" group-title="Germany", TV INGOLSTADT
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3676375271/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/4030242361/index.m3u8
 
 #EXTINF:-1 tvg-name="TV INGOLSTADT" group-title="Germany", TV INGOLSTADT
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/4030242361/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3676375271/index.m3u8
 
 #EXTINF:-1 tvg-name="TV MAINFRANKEN" group-title="Germany", TV MAINFRANKEN
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/656561824/index.m3u8
@@ -16312,10 +16264,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/77002
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1367605401/index.m3u8
 
 #EXTINF:-1 tvg-name="VOX" group-title="Germany", VOX
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3622161112/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2866655811/index.m3u8
 
 #EXTINF:-1 tvg-name="VOX" group-title="Germany", VOX
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2866655811/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3622161112/index.m3u8
 
 #EXTINF:-1 tvg-name="VOX HD (1)" group-title="Germany", VOX HD (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2099765212/index.m3u8
@@ -16526,9 +16478,9 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/39144
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2454558136/index.m3u8
 
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1534161807/index.m3u8
-
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1101559666/index.m3u8
+
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1534161807/index.m3u8
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/565256431/index.m3u8
 
@@ -16552,9 +16504,9 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/21787
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2381583828/index.m3u8
 
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3743894403/index.m3u8
-
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2719953688/index.m3u8
+
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3743894403/index.m3u8
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/62558606/index.m3u8
 
@@ -16588,9 +16540,9 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/96360
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3802167244/index.m3u8
 
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3554841914/index.m3u8
-
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1955739367/index.m3u8
+
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3554841914/index.m3u8
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2113273064/index.m3u8
 
@@ -16626,13 +16578,13 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/42222
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/490955579/index.m3u8
 
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3448075317/index.m3u8
-
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3481346857/index.m3u8
 
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2283887097/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3448075317/index.m3u8
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2317684453/index.m3u8
+
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2283887097/index.m3u8
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1798700028/index.m3u8
 
@@ -16818,27 +16770,27 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/17111
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2627662768/index.m3u8
 
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/875922788/index.m3u8
-
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1225653759/index.m3u8
 
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/246253359/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/875922788/index.m3u8
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1939210164/index.m3u8
+
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/246253359/index.m3u8
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1324733956/index.m3u8
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/869117599/index.m3u8
 
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2179822223/index.m3u8
-
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/4241820180/index.m3u8
+
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2179822223/index.m3u8
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2049087681/index.m3u8
 
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3163380543/index.m3u8
-
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3249873828/index.m3u8
+
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3163380543/index.m3u8
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1803677691/index.m3u8
 
@@ -16848,9 +16800,9 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/37467
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/294457245/index.m3u8
 
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1925964148/index.m3u8
-
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2835672487/index.m3u8
+
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1925964148/index.m3u8
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2239645272/index.m3u8
 
@@ -16948,37 +16900,37 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/28955
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2002360508/index.m3u8
 
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1902695925/index.m3u8
-
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1806815496/index.m3u8
+
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1902695925/index.m3u8
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1421393119/index.m3u8
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1482866609/index.m3u8
 
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3812796171/index.m3u8
-
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1144128726/index.m3u8
+
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3812796171/index.m3u8
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2242741766/index.m3u8
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3525837057/index.m3u8
 
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/500203271/index.m3u8
-
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3131104474/index.m3u8
+
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/500203271/index.m3u8
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1235530177/index.m3u8
 
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1228534500/index.m3u8
-
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2330574729/index.m3u8
+
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1228534500/index.m3u8
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1078650168/index.m3u8
 
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3216516117/index.m3u8
-
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/415795144/index.m3u8
+
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3216516117/index.m3u8
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2890008905/index.m3u8
 
@@ -16988,9 +16940,9 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/18209
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3060043751/index.m3u8
 
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1759625738/index.m3u8
-
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2872151911/index.m3u8
+
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1759625738/index.m3u8
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1699876530/index.m3u8
 
@@ -17018,9 +16970,9 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/12844
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3470758028/index.m3u8
 
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/525374356/index.m3u8
-
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/877200714/index.m3u8
+
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/525374356/index.m3u8
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/573618724/index.m3u8
 
@@ -17030,13 +16982,13 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/24169
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3137990890/index.m3u8
 
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2255083866/index.m3u8
-
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2909818756/index.m3u8
 
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3251217290/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2255083866/index.m3u8
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3939513684/index.m3u8
+
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3251217290/index.m3u8
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3618643172/index.m3u8
 
@@ -17046,9 +16998,9 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/14407
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2130255339/index.m3u8
 
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1134113883/index.m3u8
-
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1753260677/index.m3u8
+
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1134113883/index.m3u8
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/836680112/index.m3u8
 
@@ -17062,9 +17014,9 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/30074
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2555960713/index.m3u8
 
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/449990998/index.m3u8
-
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1665920101/index.m3u8
+
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/449990998/index.m3u8
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/4246774056/index.m3u8
 
@@ -17072,9 +17024,9 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/30935
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1989309231/index.m3u8
 
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3897711086/index.m3u8
-
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/729945219/index.m3u8
+
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3897711086/index.m3u8
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2066326916/index.m3u8
 
@@ -17100,9 +17052,9 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/22890
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/558282118/index.m3u8
 
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3376031355/index.m3u8
-
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/318057128/index.m3u8
+
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3376031355/index.m3u8
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/322024849/index.m3u8
 
@@ -17126,9 +17078,9 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/88205
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1284194905/index.m3u8
 
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3213195143/index.m3u8
-
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3009377513/index.m3u8
+
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3213195143/index.m3u8
 
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/11653719/index.m3u8
 
@@ -17417,34 +17369,34 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/14844
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1397846137/index.m3u8
 
 #EXTINF:-1 tvg-name="ESPN 2" group-title="Netherlands", ESPN 2
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/405473735/index.m3u8
-
-#EXTINF:-1 tvg-name="ESPN 2" group-title="Netherlands", ESPN 2
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/351341225/index.m3u8
 
-#EXTINF:-1 tvg-name="ESPN 3" group-title="Netherlands", ESPN 3
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/625680503/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 2" group-title="Netherlands", ESPN 2
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/405473735/index.m3u8
 
 #EXTINF:-1 tvg-name="ESPN 3" group-title="Netherlands", ESPN 3
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/697377561/index.m3u8
 
-#EXTINF:-1 tvg-name="ESPN 4" group-title="Netherlands", ESPN 4
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2612133641/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 3" group-title="Netherlands", ESPN 3
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/625680503/index.m3u8
 
 #EXTINF:-1 tvg-name="ESPN 4" group-title="Netherlands", ESPN 4
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2540436583/index.m3u8
 
-#EXTINF:-1 tvg-name="EUROSPORT 1" group-title="Netherlands", EUROSPORT 1
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2736390217/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 4" group-title="Netherlands", ESPN 4
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2612133641/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 1" group-title="Netherlands", EUROSPORT 1
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/74097556/index.m3u8
 
-#EXTINF:-1 tvg-name="EUROSPORT 2" group-title="Netherlands", EUROSPORT 2
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1137367364/index.m3u8
+#EXTINF:-1 tvg-name="EUROSPORT 1" group-title="Netherlands", EUROSPORT 1
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2736390217/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 2" group-title="Netherlands", EUROSPORT 2
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3837426329/index.m3u8
+
+#EXTINF:-1 tvg-name="EUROSPORT 2" group-title="Netherlands", EUROSPORT 2
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1137367364/index.m3u8
 
 #EXTINF:-1 tvg-name="EX SPORT" group-title="Netherlands", EX SPORT
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/330363772/index.m3u8
@@ -17879,10 +17831,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/25729
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2400591548/index.m3u8
 
 #EXTINF:-1 tvg-name="RTV UTRECHT" group-title="Netherlands", RTV UTRECHT
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/31091519/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2796210402/index.m3u8
 
 #EXTINF:-1 tvg-name="RTV UTRECHT" group-title="Netherlands", RTV UTRECHT
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2796210402/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/31091519/index.m3u8
 
 #EXTINF:-1 tvg-name="RTV UTRECHT (BACKUP)" group-title="Netherlands", RTV UTRECHT (BACKUP)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1965649934/index.m3u8
@@ -18047,16 +17999,16 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/16437
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1167725757/index.m3u8
 
 #EXTINF:-1 tvg-name="ZIGGO SPORT RACING" group-title="Netherlands", ZIGGO SPORT RACING
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1777530589/index.m3u8
-
-#EXTINF:-1 tvg-name="ZIGGO SPORT RACING" group-title="Netherlands", ZIGGO SPORT RACING
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/459281257/index.m3u8
 
-#EXTINF:-1 tvg-name="ZIGGO SPORT SELECT" group-title="Netherlands", ZIGGO SPORT SELECT
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/739290895/index.m3u8
+#EXTINF:-1 tvg-name="ZIGGO SPORT RACING" group-title="Netherlands", ZIGGO SPORT RACING
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1777530589/index.m3u8
 
 #EXTINF:-1 tvg-name="ZIGGO SPORT SELECT" group-title="Netherlands", ZIGGO SPORT SELECT
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1585597115/index.m3u8
+
+#EXTINF:-1 tvg-name="ZIGGO SPORT SELECT" group-title="Netherlands", ZIGGO SPORT SELECT
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/739290895/index.m3u8
 
 #EXTINF:-1 tvg-name="ZIGGO SPORT TENNIS" group-title="Netherlands", ZIGGO SPORT TENNIS
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/4022861107/index.m3u8
@@ -23477,10 +23429,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/37668
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2511732024/index.m3u8
 
 #EXTINF:-1 tvg-name="A NEWS" group-title="Turkey", A NEWS
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/812131629/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1571071214/index.m3u8
 
 #EXTINF:-1 tvg-name="A NEWS" group-title="Turkey", A NEWS
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1571071214/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/812131629/index.m3u8
 
 #EXTINF:-1 tvg-name="A NEWS HD (1)" group-title="Turkey", A NEWS HD (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3878908897/index.m3u8
@@ -23666,10 +23618,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/20845
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2042734050/index.m3u8
 
 #EXTINF:-1 tvg-name="ATV" group-title="Turkey", ATV
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1255594337/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/455930425/index.m3u8
 
 #EXTINF:-1 tvg-name="ATV" group-title="Turkey", ATV
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/455930425/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1255594337/index.m3u8
 
 #EXTINF:-1 tvg-name="ATV ALANYA" group-title="Turkey", ATV ALANYA
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/930209556/index.m3u8
@@ -23804,10 +23756,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/13222
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2485199152/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN MOVIES PREMIERE" group-title="Turkey", BEIN MOVIES PREMIERE
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/942987224/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2197747964/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN MOVIES PREMIERE" group-title="Turkey", BEIN MOVIES PREMIERE
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2197747964/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/942987224/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN MOVIES PREMIERE 2" group-title="Turkey", BEIN MOVIES PREMIERE 2
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2120218356/index.m3u8
@@ -23816,10 +23768,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/21202
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2244069093/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN MOVIES STARS" group-title="Turkey", BEIN MOVIES STARS
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2500913164/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1963748784/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN MOVIES STARS" group-title="Turkey", BEIN MOVIES STARS
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1963748784/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2500913164/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN MOVIES TURK" group-title="Turkey", BEIN MOVIES TURK
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1835579025/index.m3u8
@@ -23915,10 +23867,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/20637
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3410167560/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 4" group-title="Turkey", BEIN SPORTS 4
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/450076655/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3640906370/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 4" group-title="Turkey", BEIN SPORTS 4
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3640906370/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/450076655/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 4 HD (1)" group-title="Turkey", BEIN SPORTS 4 HD (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1872232768/index.m3u8
@@ -24068,10 +24020,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/36523
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1020985035/index.m3u8
 
 #EXTINF:-1 tvg-name="BEYAZ TV" group-title="Turkey", BEYAZ TV
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/275850888/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3418237531/index.m3u8
 
 #EXTINF:-1 tvg-name="BEYAZ TV" group-title="Turkey", BEYAZ TV
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3418237531/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/275850888/index.m3u8
 
 #EXTINF:-1 tvg-name="BEYAZ TV FHD (1)" group-title="Turkey", BEYAZ TV FHD (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1600348811/index.m3u8
@@ -24197,10 +24149,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/26728
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/841360741/index.m3u8
 
 #EXTINF:-1 tvg-name="CEM TV" group-title="Turkey", CEM TV
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/991733892/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1456482631/index.m3u8
 
 #EXTINF:-1 tvg-name="CEM TV" group-title="Turkey", CEM TV
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1456482631/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/991733892/index.m3u8
 
 #EXTINF:-1 tvg-name="CHASSE & PECHE" group-title="Turkey", CHASSE & PECHE
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3033383137/index.m3u8
@@ -24212,10 +24164,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/14757
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/940839479/index.m3u8
 
 #EXTINF:-1 tvg-name="CIFTCI TV" group-title="Turkey", CIFTCI TV
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3124431103/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3185778667/index.m3u8
 
 #EXTINF:-1 tvg-name="CIFTCI TV" group-title="Turkey", CIFTCI TV
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3185778667/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3124431103/index.m3u8
 
 #EXTINF:-1 tvg-name="CILGIN ORMAN TV (1)" group-title="Turkey", CILGIN ORMAN TV (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3892774129/index.m3u8
@@ -25178,10 +25130,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/37407
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/87578284/index.m3u8
 
 #EXTINF:-1 tvg-name="KANAL 3" group-title="Turkey", KANAL 3
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1558612099/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1178569854/index.m3u8
 
 #EXTINF:-1 tvg-name="KANAL 3" group-title="Turkey", KANAL 3
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1178569854/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1558612099/index.m3u8
 
 #EXTINF:-1 tvg-name="KANAL 32" group-title="Turkey", KANAL 32
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3760926490/index.m3u8
@@ -25226,10 +25178,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/28420
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3015649982/index.m3u8
 
 #EXTINF:-1 tvg-name="KANAL 7 AVRUPA" group-title="Turkey", KANAL 7 AVRUPA
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/916532487/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/498645977/index.m3u8
 
 #EXTINF:-1 tvg-name="KANAL 7 AVRUPA" group-title="Turkey", KANAL 7 AVRUPA
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/498645977/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/916532487/index.m3u8
 
 #EXTINF:-1 tvg-name="KANAL 7 EUROPA (1)" group-title="Turkey", KANAL 7 EUROPA (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3264983364/index.m3u8
@@ -25259,10 +25211,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/21902
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2555658748/index.m3u8
 
 #EXTINF:-1 tvg-name="KANAL D" group-title="Turkey", KANAL D
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/387232860/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/231583905/index.m3u8
 
 #EXTINF:-1 tvg-name="KANAL D" group-title="Turkey", KANAL D
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/231583905/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/387232860/index.m3u8
 
 #EXTINF:-1 tvg-name="KANAL D FHD (1)" group-title="Turkey", KANAL D FHD (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1781656098/index.m3u8
@@ -25475,10 +25427,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/41904
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1865892469/index.m3u8
 
 #EXTINF:-1 tvg-name="LOVE NATURE" group-title="Turkey", LOVE NATURE
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2593800839/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2520793577/index.m3u8
 
 #EXTINF:-1 tvg-name="LOVE NATURE" group-title="Turkey", LOVE NATURE
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2520793577/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2593800839/index.m3u8
 
 #EXTINF:-1 tvg-name="LOVE NATURE HD (1)" group-title="Turkey", LOVE NATURE HD (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3309481234/index.m3u8
@@ -25610,19 +25562,19 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/21757
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2608519906/index.m3u8
 
 #EXTINF:-1 tvg-name="MINIKA COCUK" group-title="Turkey", MINIKA COCUK
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1127812993/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/4058432171/index.m3u8
 
 #EXTINF:-1 tvg-name="MINIKA COCUK" group-title="Turkey", MINIKA COCUK
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/4058432171/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1127812993/index.m3u8
 
 #EXTINF:-1 tvg-name="MINIKA COCUK (1)" group-title="Turkey", MINIKA COCUK (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3036231687/index.m3u8
 
 #EXTINF:-1 tvg-name="MINIKA GO" group-title="Turkey", MINIKA GO
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2831274809/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2937701421/index.m3u8
 
 #EXTINF:-1 tvg-name="MINIKA GO" group-title="Turkey", MINIKA GO
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2937701421/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2831274809/index.m3u8
 
 #EXTINF:-1 tvg-name="MONTAG & FREITAG BULLI (1)" group-title="Turkey", MONTAG & FREITAG BULLI (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2862980701/index.m3u8
@@ -25760,10 +25712,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/63138
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3548270931/index.m3u8
 
 #EXTINF:-1 tvg-name="NTV" group-title="Turkey", NTV
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3164514696/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3982787280/index.m3u8
 
 #EXTINF:-1 tvg-name="NTV" group-title="Turkey", NTV
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3982787280/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3164514696/index.m3u8
 
 #EXTINF:-1 tvg-name="NTV HABER" group-title="Turkey", NTV HABER
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1237310964/index.m3u8
@@ -26258,10 +26210,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/11341
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3209892863/index.m3u8
 
 #EXTINF:-1 tvg-name="STAR TV" group-title="Turkey", STAR TV
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/863472446/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/699305923/index.m3u8
 
 #EXTINF:-1 tvg-name="STAR TV" group-title="Turkey", STAR TV
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/699305923/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/863472446/index.m3u8
 
 #EXTINF:-1 tvg-name="STAR TV FHD (1)" group-title="Turkey", STAR TV FHD (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2020035128/index.m3u8
@@ -26372,10 +26324,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/17706
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2029344795/index.m3u8
 
 #EXTINF:-1 tvg-name="TELE 1" group-title="Turkey", TELE 1
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1025979520/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1357624643/index.m3u8
 
 #EXTINF:-1 tvg-name="TELE 1" group-title="Turkey", TELE 1
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1357624643/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1025979520/index.m3u8
 
 #EXTINF:-1 tvg-name="TELE 1 (1)" group-title="Turkey", TELE 1 (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3560292869/index.m3u8
@@ -26453,22 +26405,22 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/70215
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1159899920/index.m3u8
 
 #EXTINF:-1 tvg-name="TIVIBU SPOR 1" group-title="Turkey", TIVIBU SPOR 1
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1528949791/index.m3u8
-
-#EXTINF:-1 tvg-name="TIVIBU SPOR 1" group-title="Turkey", TIVIBU SPOR 1
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2565972338/index.m3u8
 
-#EXTINF:-1 tvg-name="TIVIBU SPOR 2" group-title="Turkey", TIVIBU SPOR 2
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3746683810/index.m3u8
+#EXTINF:-1 tvg-name="TIVIBU SPOR 1" group-title="Turkey", TIVIBU SPOR 1
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1528949791/index.m3u8
 
 #EXTINF:-1 tvg-name="TIVIBU SPOR 2" group-title="Turkey", TIVIBU SPOR 2
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/478254799/index.m3u8
 
-#EXTINF:-1 tvg-name="TIVIBU SPOR 3" group-title="Turkey", TIVIBU SPOR 3
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3794924050/index.m3u8
+#EXTINF:-1 tvg-name="TIVIBU SPOR 2" group-title="Turkey", TIVIBU SPOR 2
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3746683810/index.m3u8
 
 #EXTINF:-1 tvg-name="TIVIBU SPOR 3" group-title="Turkey", TIVIBU SPOR 3
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/568442751/index.m3u8
+
+#EXTINF:-1 tvg-name="TIVIBU SPOR 3" group-title="Turkey", TIVIBU SPOR 3
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3794924050/index.m3u8
 
 #EXTINF:-1 tvg-name="TIVIBU SPOR 4" group-title="Turkey", TIVIBU SPOR 4
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1343303170/index.m3u8
@@ -26513,10 +26465,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/23228
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3146429334/index.m3u8
 
 #EXTINF:-1 tvg-name="TLC" group-title="Turkey", TLC
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1766840660/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/951448076/index.m3u8
 
 #EXTINF:-1 tvg-name="TLC" group-title="Turkey", TLC
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/951448076/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1766840660/index.m3u8
 
 #EXTINF:-1 tvg-name="TLC TV (1)" group-title="Turkey", TLC TV (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3281641786/index.m3u8
@@ -26546,10 +26498,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/39392
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3683051244/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT 1" group-title="Turkey", TRT 1
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2041026135/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/115261333/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT 1" group-title="Turkey", TRT 1
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/115261333/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/2041026135/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT 1 4K (1)" group-title="Turkey", TRT 1 4K (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3059837792/index.m3u8
@@ -26927,10 +26879,10 @@ https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/10982
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1183258440/index.m3u8
 
 #EXTINF:-1 tvg-name="VIASAT HISTORY" group-title="Turkey", VIASAT HISTORY
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1515686371/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1900945213/index.m3u8
 
 #EXTINF:-1 tvg-name="VIASAT HISTORY" group-title="Turkey", VIASAT HISTORY
-https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1900945213/index.m3u8
+https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/1515686371/index.m3u8
 
 #EXTINF:-1 tvg-name="VIASAT HISTORY HD+ (1)" group-title="Turkey", VIASAT HISTORY HD+ (1)
 https://scafroglia93-bullhead.hf.space/proxy/m3u?url=https://vavoo.to/play/3480468962/index.m3u8
